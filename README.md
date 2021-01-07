@@ -18,12 +18,16 @@ Excel is a powerful application that can be used for journal entries, general le
 * What-if Scenario
 * Business valuation
 
-
 ## Functions
 ### Logical
 * IF, IFS
 * AND, NOT, OR
 * SWITCH
+
+### Lookup and Referece
+* VLOOKUP
+* MATCH, INDEX
+
 
 -----
 
