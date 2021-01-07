@@ -35,6 +35,7 @@ Excel is a powerful application that can be used for journal entries, general le
 ## Terms
 * EBITDA
 * CAGR
+* Double-entry 
 * Free cash flow (FCF)
 * GAAP
 * IFRS
