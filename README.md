@@ -17,6 +17,7 @@ Excel is a powerful application that can be used for journal entries, general le
 * Forcasting
 * What-if Scenario
 * Business valuation
+* Ratio analysis
 
 ## Functions
 ### Logical
