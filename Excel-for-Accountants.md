@@ -20,6 +20,7 @@ Excel is a powerful application that can be used for journal entries, general le
 * Business valuation
 * Ratio analysis
 * Data Transformation
+* Data Analysis
 * Reporting
 
 
