@@ -3,6 +3,7 @@
 ## المراجع والمصادر
 * [أكسيل 2016](https://edu.gcfglobal.org/en/tr_ar-excel-2016/) 
   * في هذا الدرس المجاني لبرنامج "اكسيل" 2016، تعلم كيفية انشاء وتكوين المعادلات والرسومات البيانية والدوال ، وكذا تنسيق الخلايا وعمل المزيد مع جداول البيانات
+* [Hsoub حسوب](https://academy.hsoub.com/apps/productivity/office/microsoft-excel/)
 
 ## YouTube
 ### AAA Excel’s Power
