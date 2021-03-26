@@ -10,3 +10,4 @@
 
 ### قناة دوراتي التعليمية
 * [تعلم الاكسل Excel من البداية إلى الاحتراف](https://www.youtube.com/watch?v=xOWB8ELw9Dg&list=PLdt8Wd2Fj5Fvz3ijOQon9JZ7v9Tf2f7Dt)
+* [شرح مبسط جداً برنامج مايكروسوفت إكسل](https://www.youtube.com/watch?v=KcKG2rAHbPA&list=PLdt8Wd2Fj5FstLcT-wThx31xSBarMX6Ft)
