@@ -7,3 +7,6 @@
 ## YouTube
 ### AAA Excel’s Power
 * [الجداول المحورية - اكسيل: إنشاء - تصميم - تخطيط](https://www.youtube.com/watch?v=DdxbG998QDk&list=PL5NlUYOM2iOgzHxXEUAp12Tx9qPbuFb1z)
+
+### قناة دوراتي التعليمية
+* [تعلم الاكسل Excel من البداية إلى الاحتراف](https://www.youtube.com/watch?v=xOWB8ELw9Dg&list=PLdt8Wd2Fj5Fvz3ijOQon9JZ7v9Tf2f7Dt)
