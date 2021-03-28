@@ -16,3 +16,4 @@
 
 ### Al-Munthir Saffan
 * [ساعة تدريبية على برنامج الإكسل - المستوى المتقدم (الجزء الأول)](https://www.youtube.com/watch?v=egR-e6ZBa_w&list=PLof3yw6ZFPFhr2TpCoDWh_e0eiGVaHvn3)
+* [دورة جديدة | البرمجة في الإكسل Excel VBA Course](https://www.youtube.com/watch?v=Zm7P7VtP9Rg&list=PLof3yw6ZFPFi2b0ks1bqAwDKTO0Chm_Rl)
