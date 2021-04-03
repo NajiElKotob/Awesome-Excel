@@ -2,6 +2,19 @@
 
 {Work in Process}
 
+## Skills gained
+* Understand the Modern Excel architecture (end-to-end).
+* Use Power Query for data wrangling.
+* Explore and extend an Excel data model.
+* Import data from external excel files.
+* Create measures using advanced DAX functions.
+* Create PivotTables and PivotCharts
+* Design Custom Gauges
+* Create data visualizations in Excel.
+* Create a Power BI dashboard with Excel.
+
+-----
+
 ## Setup and configuration
 * Checking Excel version
 * Configure Power Query
