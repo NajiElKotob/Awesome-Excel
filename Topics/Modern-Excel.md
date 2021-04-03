@@ -14,7 +14,9 @@
 * Importing Data into Excel
 * Shaping and Transforming Data
 * Loading Data 
-* Data Refreshing
+* Refreshing Data
+* Pass-through technique
+
 
 ## Power Pivot
 * Introduction to DAX language
