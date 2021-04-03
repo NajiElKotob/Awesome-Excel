@@ -37,11 +37,12 @@
 * PivotChart
 * Slicers and Timelines
 * Gauges
+* Best practices
 
 ## Printing and Sharing
 * Printing and sharing
 
-## Troubleshooting and Best practices
+## Troubleshooting
 * Performance
 * Connection
 * Transformation Error
