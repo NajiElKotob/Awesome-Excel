@@ -1,1 +1,39 @@
 # Modern Excel 
+
+{Work in Process}
+
+## Setup and configuration
+* Checking Excel version
+* Configure Power Query
+* Configure Power Pivot (Data Model)
+
+## Modern Excel Ecosystem
+* Understanding the Modern Excel components
+
+## Power Query
+* Importing Data into Excel
+* Shaping and Transforming Data
+* Loading Data 
+* Data Refreshing
+
+## Power Pivot
+* Introduction to DAX language
+* Creating Calculated Columns
+* Formatting Data Model Data
+* Creating Measures
+* Analyzing the Data
+
+## Power View _(Optional)_
+* Setup and configuration
+
+## Power Map _(Optional)_
+* Introduction to Power Map
+
+## Interactive Dashboard
+* PivotTable
+* PivotChart
+* Slicers and Timelines
+* Gauges
+
+## Troubleshooting and Best practices
+
