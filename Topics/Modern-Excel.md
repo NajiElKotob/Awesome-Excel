@@ -18,10 +18,10 @@
 * Pass-through technique
 
 
-## Power Pivot
-* Introduction to DAX language
+## Power Pivot (Data Model)
 * Creating Calculated Columns
 * Formatting Data Model Data
+* Introduction to DAX language
 * Creating Measures
 * Analyzing the Data
 
