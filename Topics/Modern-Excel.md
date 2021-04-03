@@ -8,7 +8,7 @@
 * Configure Power Pivot (Data Model)
 
 ## Modern Excel Ecosystem
-* Understanding the Modern Excel components
+* Understanding the Modern Excel components (End to end architecture)
 
 ## Power Query
 * Importing Data into Excel
@@ -25,6 +25,7 @@
 
 ## Power View _(Optional)_
 * Setup and configuration
+* Introduction to Power View
 
 ## Power Map _(Optional)_
 * Introduction to Power Map
@@ -35,5 +36,10 @@
 * Slicers and Timelines
 * Gauges
 
-## Troubleshooting and Best practices
+## Printing and Sharing
+* Printing and sharing
 
+## Troubleshooting and Best practices
+* Performance
+* Connection
+* Transformation Error
