@@ -2,6 +2,14 @@
 
 {Work in Process}
 
+
+## Prerequisites
+* Basic knowledge of the Microsoft Windows operating system and its core functionality.
+* Extensive knowledge of Excel spreadsheets including formulas, charts, filtering and sorting.
+* Basic knowledge of data analytics.
+
+-----
+
 ## Skills gained
 * Understand the Modern Excel architecture (end-to-end).
 * Use Power Query for data wrangling.
@@ -14,16 +22,16 @@
 * Create a Power BI dashboard with Excel.
 
 -----
-
-## Setup and configuration
+## Outline
+### Setup and configuration
 * Checking Excel version
 * Configure Power Query
 * Configure Power Pivot (Data Model)
 
-## Modern Excel Ecosystem
+### Modern Excel Ecosystem
 * Understanding the Modern Excel components (End to end architecture)
 
-## Power Query
+### Power Query
 * Importing Data into Excel
 * Shaping and Transforming Data
 * Loading Data 
@@ -31,31 +39,31 @@
 * Pass-through technique
 
 
-## Power Pivot (Data Model)
+### Power Pivot (Data Model)
 * Creating Calculated Columns
 * Formatting Data Model Data
 * Introduction to DAX language
 * Creating Measures
 * Analyzing the Data
 
-## Power View _(Optional)_
+### Power View _(Optional)_
 * Setup and configuration
 * Introduction to Power View
 
-## Power Map _(Optional)_
+### Power Map _(Optional)_
 * Introduction to Power Map
 
-## Interactive Dashboard
+### Interactive Dashboard
 * PivotTable
 * PivotChart
 * Slicers and Timelines
 * Gauges
 * Best practices
 
-## Printing and Sharing
+### Printing and Sharing
 * Printing and sharing
 
-## Troubleshooting
+### Troubleshooting
 * Performance
 * Connection
 * Transformation Error
