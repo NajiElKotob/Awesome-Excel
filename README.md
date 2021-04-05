@@ -3,16 +3,22 @@
 
 [Old Labs](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel) - Awesome MSO
 
-* [Official Website](https://products.office.com/en-us/excel) - Microsoft
-* [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
-* [Learn Excel with CFI](https://corporatefinanceinstitute.com/resources/excel/) - Everything you need to become an Excel power user.
-* [GCF (Arabic)](https://edu.gcfglobal.org/en/tr_ar-excel-2016/) - Excel 2016
-* 
+-----
+
 ## Top YouTube Channels :tv: (Excel)
 * [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) - Over 3000 Excel How To Videos from Beginner to Advanced, including downloadable Excel files to practice and pdf notes to summarize concepts.
 * [MrExcel.com](https://www.youtube.com/user/bjele123/) - Learn a new Excel tip every weekday from MrExcel. 
 * [TeachExcel](https://www.youtube.com/user/ExcelisHell/) - Excel help and tutorial videos. 
 * [Excel Campus - Jon](https://www.youtube.com/user/ExcelCampus/) - Excel Campus is here to help you learn Excel and save you time with your everyday tasks. 
+
+## Tutorials
+* [Official Website](https://products.office.com/en-us/excel) - Microsoft
+* [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
+* [Learn Excel with CFI](https://corporatefinanceinstitute.com/resources/excel/) - Everything you need to become an Excel power user.
+* [How to Create Dependent Cascading Drop-down Lists](https://www.excelcampus.com/tables/dependent-drop-lists/) - Excel Campus
+* [Making a cascading (dependent) Excel drop down list](https://www.ablebits.com/office-addins-blog/2014/09/30/dependent-cascading-dropdown-lists-excel/) - Ablebits
+* [Applying the Pareto Principle in Financial Analysis](https://magnimetrics.com/pareto-principle-in-financial-analysis/) - Dobromir Dikov
+* [Interactive Excel Web App Dashboard (Video)](https://www.youtube.com/watch?v=ciU9wHtX-EM) - MrExcel.com
 
 ## Help
 * [What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
@@ -32,12 +38,6 @@
 ## PivotTable and PivotChart
 * [101 Advanced Pivot Table Tips And Tricks You Need To Know](https://www.howtoexcel.org/pivot-tables/pivot-table-tips-and-tricks/) (How to Excel, October 2017)
 * [Refresh Pivot Tables Automatically When Source Data Changes](https://www.excelcampus.com/vba/refresh-pivot-tables-automatically/) (Excel Campus, Jon Acampora)
-
-## Tutorials
-* [How to Create Dependent Cascading Drop-down Lists](https://www.excelcampus.com/tables/dependent-drop-lists/) - Excel Campus
-* [Making a cascading (dependent) Excel drop down list](https://www.ablebits.com/office-addins-blog/2014/09/30/dependent-cascading-dropdown-lists-excel/) - Ablebits
-* [Applying the Pareto Principle in Financial Analysis](https://magnimetrics.com/pareto-principle-in-financial-analysis/) - Dobromir Dikov
-* [Interactive Excel Web App Dashboard (Video)](https://www.youtube.com/watch?v=ciU9wHtX-EM) - MrExcel.com
 
 ## Misc
 * [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
@@ -60,6 +60,7 @@
 
 ## Add-ins
 * [Fuzzy Lookup Add-In for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=15011)
+
 ### Exams (Excel)
 * [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
 * [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
