@@ -11,7 +11,8 @@
 * [الجداول المحورية - اكسيل: إنشاء - تصميم - تخطيط](https://www.youtube.com/watch?v=DdxbG998QDk&list=PL5NlUYOM2iOgzHxXEUAp12Tx9qPbuFb1z)
 
 ### Excel Online - اكسل أونلاين
-* [اكسل أونلاين (الصفحة الرئيسية)](https://www.youtube.com/channel/UCNh8pGHLFon_oWNABe_ADhw) 
+* [اكسل أونلاين (الصفحة الرئيسية)](https://www.youtube.com/channel/UCNh8pGHLFon_oWNABe_ADhw)
+* [دوال البحث فى الاكسل](https://www.youtube.com/watch?v=bKBYG0eTFiI&list=PLKJRz6HoN48gEC_PgqranBRe6fInP_LJ5) 
 
 
 ### قناة دوراتي التعليمية
