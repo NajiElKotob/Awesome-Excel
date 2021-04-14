@@ -1,6 +1,7 @@
 # Excel for Internal Auditors
 {Work in Process, Stay Tuned}
 
+* CAATs
 * Workbooks and worksheets
 * Fast spreadsheet navigation
 * Data types
