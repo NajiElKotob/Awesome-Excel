@@ -28,6 +28,6 @@
 * Introduction to Data Visualization and sharing using Power BI
 * How to Choose the Right Chart
   * Visualizing Parts of a Whole
-  * Visualizing Performane Comparisons 
+  * Visualizing Performance Comparisons 
   * Visualizing Changes over Time
   * Visualizing relationships between two or more variables
