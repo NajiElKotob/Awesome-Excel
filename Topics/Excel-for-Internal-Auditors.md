@@ -9,6 +9,7 @@
   * Logical
   * Lookup & Reference
   * Date & Time
+  * Find and replace formulas
 * Formula auditing
   *  Trace Precedents
   *  Trace Dependents
@@ -23,7 +24,13 @@
 * Fill in values
   * Series
   * Flash fill
-* Find and replace formulas
+* Tables
+  * Sort & Filter
+* PivotTables
 * Data Analysis
+  * Conditional formatting
   * Find Outliers
-
+  * Find Gaps
+  * Find Duplicates and unique values
+* Simulation
+ * Random Numbers 
