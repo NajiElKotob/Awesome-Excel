@@ -25,6 +25,8 @@
 * Fill in values
   * Series
   * Flash fill
+* Power Query
+ * Import External Data 
 * Tables
   * Sort & Filter
 * PivotTables
