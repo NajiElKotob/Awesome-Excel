@@ -67,6 +67,7 @@
 * [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
 
 ## Why Excel❓
+* [Versions of Excel Explained](https://spreadsheetpage.com/excel-version-history/)
 * [Seven reasons why excel is still used by half a billion people worldwide](https://irishtechnews.ie/seven-reasons-why-excel-is-still-used-by-half-a-billion-people-worldwide)
 * [27 Microsoft Excel Experts Predict The Future Of Excel In BI](https://www.investintech.com/resources/blog/archives/5718-experts-predict-the-future-of-excel-in-business-intelligence.html)
 
