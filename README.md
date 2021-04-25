@@ -93,6 +93,7 @@ Power View is an interactive data exploration, visualization, and presentation e
 * Power Map
 Power Map, our popular 3-D geospatial visualization add-in for Excel 2013, is now fully integrated into Excel. We’ve also given this feature a more descriptive name, “3D Maps". You'll find this functionality alongside other visualization features on the Insert tab. [learn more](https://support.microsoft.com/en-us/office/get-started-with-3d-maps-6b56a50d-3c3e-4a9e-a527-eea62a387030)
    * [Get started with Power Map](https://support.office.com/en-us/article/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a)
+   * [Use 3D Maps in Excel - Create Beautiful Map Charts](https://www.youtube.com/watch?v=P--qP4mfxEg) - Computergaga
 * Power Tools (All)
    * [Excel Power Tools (Western Carolina University)](https://www.wcu.edu/WebFiles/OIPE/NCAIR_2015_ExcelPowerTools.pdf)
 * Power BI
