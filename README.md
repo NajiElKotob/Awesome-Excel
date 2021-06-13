@@ -76,6 +76,7 @@
 * Power Query (Get and Transform Data)
    * Extracts data from various sources. The user can cleanse and format the data and save this procedure; the procedure can then be repeatedly performed each time the data is refreshed.
    * [Getting Started with Get & Transform in Excel](https://support.office.com/en-us/article/getting-started-with-get-transform-in-excel-a8310388-2a12-438c-9d29-c6d29cb8df6a)
+   * [Shape data (Power Query)](https://support.microsoft.com/en-us/office/shape-data-power-query-9b2dac2b-e13d-46a4-8940-7bc55f44597d)
    * [Power Query 101](https://support.office.com/en-us/article/power-query-101-008b3f46-5b14-4f8b-9a07-d3da689091b5) - UEFA European Football Championship case.
    * [What Is Power Query?](https://www.howtoexcel.org/power-query/the-complete-guide-to-power-query/) - howtoexcel.org
 * Power Pivot
