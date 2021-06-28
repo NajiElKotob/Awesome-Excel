@@ -10,6 +10,7 @@
 * [MrExcel.com](https://www.youtube.com/user/bjele123/) - Learn a new Excel tip every weekday from MrExcel. 
 * [TeachExcel](https://www.youtube.com/user/ExcelisHell/) - Excel help and tutorial videos. 
 * [Excel Campus - Jon](https://www.youtube.com/user/ExcelCampus/) - Excel Campus is here to help you learn Excel and save you time with your everyday tasks. 
+* [I didn’t know Excel could do THAT](https://www.youtube.com/watch?v=l7tvMoGrWKw) - Bob Umlas
 
 ## Tutorials
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
