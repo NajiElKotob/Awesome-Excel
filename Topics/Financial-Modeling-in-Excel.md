@@ -2,6 +2,7 @@
 
 ## Templates
 * [Financial Model Templates](https://marketplace.corporatefinanceinstitute.com/financial-model-templates/) - CFI Marketplace
+* [Excel & Financial Model Templates](https://corporatefinanceinstitute.com/resources/templates/excel-modeling/) - corporatefinanceinstitute.com
 
 ## References
 * [What is Financial Modeling (CFI)](https://corporatefinanceinstitute.com/resources/knowledge/modeling/what-is-financial-modeling/) - corporatefinanceinstitute.com
