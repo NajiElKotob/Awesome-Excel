@@ -11,3 +11,5 @@
 1. Transpose Column / Row
 1. Fill Options (Fill Handle + Righ-click)
 1. Named ranges (Zoom < 39%)
+1. Arabic Numbers (Custom format prefix [$-,200]) e.g., ١٩٧٥
+
