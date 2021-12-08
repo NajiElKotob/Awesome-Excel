@@ -1,5 +1,5 @@
 # Awesome Excel 💚
-{Work in Process... Stay Tuned}
+{Awesome Works in Progress}
 
 [Old Labs](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel) - Awesome MSO
 
