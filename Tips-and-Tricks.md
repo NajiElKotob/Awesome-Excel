@@ -10,3 +10,4 @@
 1. Paste Blank Column or Row (Shift + Fill Handle)
 1. Transpose Column / Row
 1. Fill Options (Fill Handle + Righ-click)
+1. Named ranges (Zoom < 39%)
