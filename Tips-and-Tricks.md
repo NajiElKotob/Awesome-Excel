@@ -8,3 +8,4 @@
 1. Import data from web e.g., https://www.imdb.com/chart/top
 1. Copy Entire Sheet
 1. Paste Blank Column or Row (Shift + Fill Handle)
+1. Transpose Column / Row
