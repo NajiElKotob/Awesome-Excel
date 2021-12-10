@@ -1,5 +1,18 @@
 # Financial Modeling in Excel
 
+## Outline
+* Let’s Talk Data
+* Let’s Talk Finance
+* Business Drivers
+* Data and Analytics (D&A)
+* Hindsight, Insight, and Foresight
+* Excel Functions 
+* Excel Data tools
+* Financial Modeling
+* Financial Analysis
+* 3 Statement Model
+* Financial Modelling Best Practices
+
 ## Templates
 * [Financial Model Templates](https://marketplace.corporatefinanceinstitute.com/financial-model-templates/) - CFI Marketplace
 * [Excel & Financial Model Templates](https://corporatefinanceinstitute.com/resources/templates/excel-modeling/) - corporatefinanceinstitute.com
