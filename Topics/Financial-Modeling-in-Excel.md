@@ -2,16 +2,18 @@
 
 ## Outline
 * Let’s Talk Data
-* Let’s Talk Finance
-* Business Drivers
-* Data and Analytics (D&A)
-* Hindsight, Insight, and Foresight
-* Excel Functions 
-* Excel Data tools
-* Financial Modeling
-* Financial Analysis
+    * DIKW model
+    * Data and Analytics (D&A)
+    * Hindsight, Insight, and Foresight
+* Financial Modelling
+    * Financial Model
+    * Financial Modelling Best Practices 
+    * Steps for building a financial model
+    * Modeling Assumptions
+    * Business Drivers
 * 3 Statement Model
-* Financial Modelling Best Practices
+* Financial Analysis
+
 
 ## Templates
 * [Financial Model Templates](https://marketplace.corporatefinanceinstitute.com/financial-model-templates/) - CFI Marketplace
