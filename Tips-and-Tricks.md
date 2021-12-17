@@ -16,3 +16,5 @@
 1. • @  ........... (Alt 7 + Cell value)
 1. F9 (Edit mode) ........... Formula's value
 1. Watch Window
+1. Multiple-clicks Trace Precedents/Dependents 
+1. Double-click Format Painter
