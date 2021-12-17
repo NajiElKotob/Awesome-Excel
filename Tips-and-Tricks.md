@@ -12,7 +12,7 @@
 1. Fill Options ........... (Fill Handle + Righ-click)
 1. Named ranges ........... (Zoom < 39%)
 1. Arabic Numbers ........... (Custom format prefix [$-,200]) e.g., ١٩٧٥
-1. ;; ........... Hidden Numbers
+1. ;;; ........... Hidden Numbers
 1. • @  ........... (Alt 7 + Cell value)
 1. F9 (Edit mode) ........... Formula's value
 1. Watch Window
