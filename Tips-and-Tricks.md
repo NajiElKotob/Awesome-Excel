@@ -27,3 +27,4 @@
 1. Multiple Cells, Same Data (CTRL+Enter)
 1. Multiple Cells, Navigation (Tab)
 1. Paste Special (Operation: Add, Subtract, Multiply, Divide)
+1. Charts as Templates
