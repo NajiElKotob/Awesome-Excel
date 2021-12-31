@@ -29,3 +29,4 @@
 1. Paste Special (Operation: Add, Subtract, Multiply, Divide)
 1. Charts as Templates
 1. 3D formula 
+1. Highlight Rows Based on a Cell Value (Conditional Formatting)
