@@ -20,3 +20,4 @@
 1. Double-click Trace Precedents/Dependents Arrow
 1. Double-click Format Painter
 1. Customize Quick Access Toolbar (Add, Remove, Order)
+1. Line Breaks (Alt+Enter)
