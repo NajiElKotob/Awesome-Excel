@@ -24,3 +24,5 @@
 1. Flash Fill
 1. Select the whole contiguous data set of a cell (CTRL+A, CTRL+SHIFT+*)
 1. Text to Columns
+1. Multiple Cells, Same Data (CTRL+Enter)
+1. Multiple Cells, Navigation (Tab)
