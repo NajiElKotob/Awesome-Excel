@@ -31,3 +31,4 @@
 1. 3D formula 
 1. Highlight Rows Based on a Cell Value (Conditional Formatting)
 1. Screenshot 
+1. Inserts today's date (CTRL + ;)
