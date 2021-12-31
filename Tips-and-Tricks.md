@@ -34,3 +34,4 @@
 1. Clear format
 1. Inserts today's date (CTRL + ;)
 1. Inserts the current time (CTRL + Shift + ;)
+1. Instant Calc (Min, Max, Sum, Count, etc)
