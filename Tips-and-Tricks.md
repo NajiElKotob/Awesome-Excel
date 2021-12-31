@@ -22,3 +22,5 @@
 1. Customize Quick Access Toolbar (Add, Remove, Order)
 1. Line Breaks (Alt+Enter)
 1. Flash Fill
+1. Select the whole contiguous data set of a cell (CTRL+A, CTRL+SHIFT+*)
+1. Text to Columns
