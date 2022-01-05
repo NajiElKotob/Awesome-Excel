@@ -1,5 +1,7 @@
 # Tips and Tricks
-
+`
+Save Time; Magic; Fun
+`
 1. Define names for cells
 1. Absolute & relative cell references ........... (F4)
 1. Copy from Left ........... (CTRL + R)
