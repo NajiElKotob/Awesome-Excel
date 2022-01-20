@@ -12,6 +12,9 @@
 * [Excel Campus - Jon](https://www.youtube.com/user/ExcelCampus/) - Excel Campus is here to help you learn Excel and save you time with your everyday tasks. 
 * [I didn’t know Excel could do THAT](https://www.youtube.com/watch?v=l7tvMoGrWKw) - Bob Umlas
 
+## Twitter
+* [Microsoft Excel](https://twitter.com/msexcel) 🐤
+
 ## Tutorials
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
