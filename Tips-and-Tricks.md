@@ -40,3 +40,4 @@ Save Time; Magic; Fun
 1. Instant Calc (Min, Max, Sum, Count, etc)
 1. User name (Personalize your copy of Microsoft Office)
 1. Closing Parenthesis (Formulas)
+1. Spaces (Before =, Before (, Between logical operators e.g., >=)
