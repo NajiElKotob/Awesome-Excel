@@ -39,3 +39,4 @@ Save Time; Magic; Fun
 1. Inserts the current time (CTRL + Shift + ;)
 1. Instant Calc (Min, Max, Sum, Count, etc)
 1. User name (Personalize your copy of Microsoft Office)
+1. Closing Parenthesis (Formulas)
