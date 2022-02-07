@@ -32,7 +32,7 @@ Save Time; Magic; Fun
 1. Paste Special (Operation: Add, Subtract, Multiply, Divide)
 1. Charts as Templates
 1. 3D formula 
-1. Highlight Rows Based on a Cell Value (Conditional Formatting)
+1. Highlight Rows Based on a Cell Value (Conditional Formatting) e.g., = $B2 > 10
 1. Screenshot 
 1. Clear format
 1. Inserts today's date (CTRL + ;)
