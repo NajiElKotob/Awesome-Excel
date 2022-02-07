@@ -7,6 +7,8 @@ Save Time; Magic; Fun
 1. Copy from Left ........... (CTRL + R)
 1. Copy from Top ........... (CTRL + D)
 1. Format Cell ........... (CTRL + 1)
+1. Select the active column ........... (CTRL + Space)
+1. Select the active row ........... (CTRL + Shift)
 1. Copy Visible Cells Only ........... (Go to > Special)
 1. Import data from web e.g., https://www.imdb.com/chart/top
 1. Copy Entire Sheet
