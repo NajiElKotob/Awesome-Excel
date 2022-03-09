@@ -39,6 +39,7 @@ Save Time; Magic; Fun
 1. 3D formula 
 1. Highlight Rows Based on a Cell Value (Conditional Formatting) e.g., = $B2 > 10
 1. Screenshot 
+1. Number format (POSITIVE; NEGATIVE; ZERO; TEXT e.g., #,##0.00;(#,##0.00);"-";[Red]@
 1. Clear format
 1. Inserts today's date (CTRL + ;)
 1. Inserts the current time (CTRL + Shift + ;)
