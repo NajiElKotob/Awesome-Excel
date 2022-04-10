@@ -50,6 +50,7 @@ Save Time; Magic; Fun
 1. Closing Parenthesis (Formulas)
 1. Spaces (Before =, Before (, Between logical operators e.g., >=)
 1. Clipboard task pane
+1. Hide zero values 0;-0;;@
 1. Dashboard Zone (Hide all the non-dashboard columns Shift+CTRL+➡)
 1. Errors #xx!, #xx?, #x/x, #x/x! e.g., #DIV/0!, #N/A!, etc. [learn more](https://www.dummies.com/article/technology/software/microsoft-products/excel/excel-error-messages-to-get-to-know-139082)
 1. Hide/Unhide slicing (filter) using the group rows features
