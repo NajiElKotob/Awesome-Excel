@@ -37,6 +37,7 @@ Save Time; Magic; Fun
 1. Paste Special (Operation: Add, Subtract, Multiply, Divide)
 1. Charts as Templates
 1. Display Units in $000s
+1. Convert numbers stored as text to numbers (Paste special with Multiply by 1; VALUE(); Text to Columns) + Formatting
 1. 3D formula 
 1. Highlight Rows Based on a Cell Value (Conditional Formatting) e.g., = $B2 > 10
 1. Screenshot 
