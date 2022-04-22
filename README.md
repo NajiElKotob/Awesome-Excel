@@ -57,6 +57,9 @@
 ### ToolPak
 * [Use the Analysis ToolPak to perform complex data analysis](https://support.microsoft.com/en-us/office/use-the-analysis-toolpak-to-perform-complex-data-analysis-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6) - microsoft.com
 
+### RegressIt
+* [RegressIt](https://regressit.com/) - regressit.com | Free Excel add-in for linear regression and multivariate data analysis
+
 
 ## VBA
 * [Excel VBA Beginner Tutorial (Video)](https://www.youtube.com/watch?v=G05TrN7nt6k) - (Learnit Training, November 2019)
