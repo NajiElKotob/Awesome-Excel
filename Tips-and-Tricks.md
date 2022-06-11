@@ -44,6 +44,7 @@ Save Time; Magic; Fun
 1. People Graph
 1. Number format (POSITIVE; NEGATIVE; ZERO; TEXT e.g., #,##0.00;(#,##0.00);"-";[Red]@
 1. Clear format
+1. Camera
 1. Inserts today's date (CTRL + ;)
 1. Inserts the current time (CTRL + Shift + ;)
 1. Instant Calc (Min, Max, Sum, Count, etc)
