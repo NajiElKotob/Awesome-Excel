@@ -2,6 +2,20 @@
 {Work in Process, Stay Tuned}
 
 * CAATs
+  * Instant summary
+  * Calculated fields
+  * Age analysis 
+  * Drill-down
+  * Sort multiple-fields
+  * Custom advanced sorting
+  * Sequence check (Gap)
+  * Missing sequence identification
+  * Benford’s Law
+  * Charts interpretation
+  * Excel Fuzzy Lookup
+  * Dataset on-demand and auto Refresh
+  * Data Analysis Tools
+  * Import/Export
 * Workbooks and worksheets
 * Fast spreadsheet navigation
 * Data types
