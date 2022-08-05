@@ -91,6 +91,7 @@
    * [What Is Power Query?](https://www.howtoexcel.org/power-query/the-complete-guide-to-power-query/) - howtoexcel.org
 * Power Pivot
    * Handle large datasets in a highly compressed format, manage relationships, perform complex calculations, and display output from different tables into a single-view PivotTable.
+   * [Get started with Power Pivot in Microsoft Excel](https://support.microsoft.com/en-us/office/get-started-with-power-pivot-in-microsoft-excel-fdfcf944-7876-424a-8437-1a6c1043a80b)
    * [Start the Power Pivot add-in for Excel](https://support.microsoft.com/en-us/office/start-the-power-pivot-add-in-for-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8)
    * [Powerful data analysis and data modeling in Excel](https://support.office.com/en-us/article/power-pivot-powerful-data-analysis-and-data-modeling-in-excel-a9c2c6e2-cc49-4976-a7d7-40896795d045)
    * [10 Ways to Improve Power Pivot Performance](https://www.dummies.com/software/microsoft-office/excel/10-ways-improve-power-pivot-performance/)
