@@ -43,7 +43,7 @@ Save Time; Magic; Fun
 1. 3D formula 
 1. Highlight Rows Based on a Cell Value (Conditional Formatting) e.g., = $B2 > 10
 1. Screenshot 
-1. People Graph
+1. [People Graph](https://appsource.microsoft.com/en-us/product/office/wa104104476?tab=overview)
 1. Number format (POSITIVE; NEGATIVE; ZERO; TEXT e.g., #,##0.00;(#,##0.00);"-";[Red]@
 1. Clear format
 1. Camera 📷
