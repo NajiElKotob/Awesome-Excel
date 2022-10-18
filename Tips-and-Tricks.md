@@ -19,7 +19,7 @@ Save Time; Magic; Fun
 1. Paste Blank Column or Row ........... (Shift + Fill Handle)
 1. Transpose Column / Row
 1. Fill Options ........... (Fill Handle + Righ-click)
-1. Named ranges ........... (Zoom < 39%)
+1. Named ranges ........... (Zoom <= 39%)
 1. Arabic Numbers ........... (Custom format prefix [$-,200]) e.g., ١٩٧٥
 1. ;;; ........... Hidden Numbers
 1. • @  ........... (Alt 7 + Cell value)
