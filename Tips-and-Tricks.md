@@ -61,3 +61,4 @@ Save Time; Magic; Fun
 1. Errors #xx!, #xx?, #x/x, #x/x! e.g., #DIV/0!, #N/A!, etc. [learn more](https://www.dummies.com/article/technology/software/microsoft-products/excel/excel-error-messages-to-get-to-know-139082)
 1. Hide/Unhide slicing (filter) using the group rows features
 1. Total number of rows and columns on a worksheet 1,048,576 rows by 16,384 columns (17,179,869,184 cells or ~17.2B cells) [learn more](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)
+1. [The 1900 date system](https://support.microsoft.com/en-us/office/date-systems-in-excel-e7fe7167-48a9-4b96-bb53-5612a800b487)
