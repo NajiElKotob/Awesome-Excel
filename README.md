@@ -96,7 +96,8 @@
    * [Powerful data analysis and data modeling in Excel](https://support.office.com/en-us/article/power-pivot-powerful-data-analysis-and-data-modeling-in-excel-a9c2c6e2-cc49-4976-a7d7-40896795d045)
    * [10 Ways to Improve Power Pivot Performance](https://www.dummies.com/software/microsoft-office/excel/10-ways-improve-power-pivot-performance/)
 * Power View
-Power View is an interactive data exploration, visualization, and presentation experience that encourages intuitive ad-hoc reporting. 
+Power View is an interactive data exploration, visualization, and presentation experience that encourages intuitive ad-hoc reporting.
+<br />`In Excel for Microsoft 365 and Excel 2021, Power View is removed on October 12, 2021. As an alternative, you can use the interactive visual experience provided by Power BI Desktop)`
    * [Power View: Explore, visualize, and present your data](https://support.office.com/en-us/article/power-view-explore-visualize-and-present-your-data-98268d31-97e2-42aa-a52b-a68cf460472e)
    * [Charts and other visualizations in Power View](https://support.microsoft.com/en-us/office/charts-and-other-visualizations-in-power-view-141bd462-9853-4973-ac37-842e8345f51e)
    * [Working with a matrix in Power View](https://support.microsoft.com/en-us/office/working-with-a-matrix-in-power-view-5dfdfec3-1906-401c-8ef7-54f19c18989b)
