@@ -38,6 +38,7 @@
 ## Charts
 * [A classification of chart types](https://excelcharts.com/classification-chart-types/) - Jorge Camoes
 * [Flow Chart Shows You What Chart to Use](https://flowingdata.com/2009/01/15/flow-chart-shows-you-what-chart-to-use/) - Andrew Abela 
+* [Step-by-step guide to build a bullet chart in Excel](https://corporatefinanceinstitute.com/resources/financial-modeling/bullet-chart-guide/) - corporatefinanceinstitute.com
 
 ## PivotTable and PivotChart
 * [101 Advanced Pivot Table Tips And Tricks You Need To Know](https://www.howtoexcel.org/pivot-tables/pivot-table-tips-and-tricks/) (How to Excel, October 2017)
