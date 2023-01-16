@@ -62,8 +62,9 @@
 * [RegressIt](https://regressit.com/) - regressit.com | Free Excel add-in for linear regression and multivariate data analysis
 
 
-## VBA
-* [Excel VBA Beginner Tutorial (Video)](https://www.youtube.com/watch?v=G05TrN7nt6k) - (Learnit Training, November 2019)
+## Macro adn VBA
+* [Excel VBA Beginner Tutorial 📺](https://www.youtube.com/watch?v=G05TrN7nt6k) - (Learnit Training, November 2019)
+* [Excel Macros & VBA - Tutorial for Beginners 📺 ~50min](https://www.youtube.com/watch?v=IJQHMFLXk_c) - Kevin Stratvert
 * [Convert numbers into words](https://support.office.com/en-us/article/convert-numbers-into-words-a0d166fb-e1ea-4090-95c8-69442cd55d98) - Excel doesn’t have a default function that displays numbers as English words in a worksheet, but you can add this capability by pasting the following SpellNumber function code into a VBA (Visual Basic for Applications) module.
 
 ## Performance
