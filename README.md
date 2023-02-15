@@ -85,19 +85,20 @@
 
 -----
 # Power Suite (Modern Excel) ⚡
-* Power Query (Get and Transform Data)
+## Power Query (Get and Transform Data)
    * Extracts data from various sources. The user can cleanse and format the data and save this procedure; the procedure can then be repeatedly performed each time the data is refreshed.
    * [Getting Started with Get & Transform in Excel](https://support.office.com/en-us/article/getting-started-with-get-transform-in-excel-a8310388-2a12-438c-9d29-c6d29cb8df6a)
    * [Shape data (Power Query)](https://support.microsoft.com/en-us/office/shape-data-power-query-9b2dac2b-e13d-46a4-8940-7bc55f44597d)
    * [Power Query 101](https://support.office.com/en-us/article/power-query-101-008b3f46-5b14-4f8b-9a07-d3da689091b5) - UEFA European Football Championship case.
    * [What Is Power Query?](https://www.howtoexcel.org/power-query/the-complete-guide-to-power-query/) - howtoexcel.org
-* Power Pivot
+## Power Pivot
    * Handle large datasets in a highly compressed format, manage relationships, perform complex calculations, and display output from different tables into a single-view PivotTable.
    * [Get started with Power Pivot in Microsoft Excel](https://support.microsoft.com/en-us/office/get-started-with-power-pivot-in-microsoft-excel-fdfcf944-7876-424a-8437-1a6c1043a80b)
    * [Start the Power Pivot add-in for Excel](https://support.microsoft.com/en-us/office/start-the-power-pivot-add-in-for-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8)
    * [Powerful data analysis and data modeling in Excel](https://support.office.com/en-us/article/power-pivot-powerful-data-analysis-and-data-modeling-in-excel-a9c2c6e2-cc49-4976-a7d7-40896795d045)
    * [10 Ways to Improve Power Pivot Performance](https://www.dummies.com/software/microsoft-office/excel/10-ways-improve-power-pivot-performance/)
-* Power View
+   * [Data Mining 2012 with Microsoft Excel 2010 and PowerPivot](https://learn.microsoft.com/en-us/events/teched-2012/dbi204) - learn.microsoft.com
+## Power View
 Power View is an interactive data exploration, visualization, and presentation experience that encourages intuitive ad-hoc reporting.
 <br />`In Excel for Microsoft 365 and Excel 2021, Power View is removed on October 12, 2021. As an alternative, you can use the interactive visual experience provided by Power BI Desktop)`
    * [Power View: Explore, visualize, and present your data](https://support.office.com/en-us/article/power-view-explore-visualize-and-present-your-data-98268d31-97e2-42aa-a52b-a68cf460472e)
@@ -106,7 +107,7 @@ Power View is an interactive data exploration, visualization, and presentation e
    * [Tiles in Power View](https://support.microsoft.com/en-us/office/tiles-in-power-view-62d69489-7888-4783-8c74-fcc079c7eed3)
    * [Enable Power View](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)
    * [Flash, Silverlight, and Shockwave controls blocked in Microsoft Office](https://support.microsoft.com/en-us/office/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-us&rs=en-us&ad=us)
-* Power Map
+## Power Map
 Power Map, our popular 3-D geospatial visualization add-in for Excel 2013, is now fully integrated into Excel. We’ve also given this feature a more descriptive name, “3D Maps". You'll find this functionality alongside other visualization features on the Insert tab. [learn more](https://support.microsoft.com/en-us/office/get-started-with-3d-maps-6b56a50d-3c3e-4a9e-a527-eea62a387030)
    * [Get started with Power Map](https://support.office.com/en-us/article/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a)
    * [Use 3D Maps in Excel - Create Beautiful Map Charts](https://www.youtube.com/watch?v=P--qP4mfxEg) - Computergaga
