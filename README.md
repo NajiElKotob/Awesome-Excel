@@ -33,7 +33,6 @@
 * [Excel functions (by category)](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
 * [Excel Function List](https://exceljet.net/excel-functions) - exceljet.net
 * [Announcing LAMBDA: Turn Excel formulas into custom functions](https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambda-turn-excel-formulas-into-custom-functions/ba-p/1925546)
-* [Specifying a Language for the TEXT Function](https://excel.tips.net/T003299_Specifying_a_Language_for_the_TEXT_Function.html) e.g. =TEXT(1234,"[$-,200]#,##0") 
 
 ## Charts
 * [A classification of chart types](https://excelcharts.com/classification-chart-types/) - Jorge Camoes
