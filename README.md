@@ -98,15 +98,7 @@
    * [Powerful data analysis and data modeling in Excel](https://support.office.com/en-us/article/power-pivot-powerful-data-analysis-and-data-modeling-in-excel-a9c2c6e2-cc49-4976-a7d7-40896795d045)
    * [10 Ways to Improve Power Pivot Performance](https://www.dummies.com/software/microsoft-office/excel/10-ways-improve-power-pivot-performance/)
    * [Data Mining 2012 with Microsoft Excel 2010 and PowerPivot](https://learn.microsoft.com/en-us/events/teched-2012/dbi204) - learn.microsoft.com
-## Power View
-Power View is an interactive data exploration, visualization, and presentation experience that encourages intuitive ad-hoc reporting.
-<br />`In Excel for Microsoft 365 and Excel 2021, Power View is removed on October 12, 2021. As an alternative, you can use the interactive visual experience provided by Power BI Desktop)`
-   * [Power View: Explore, visualize, and present your data](https://support.office.com/en-us/article/power-view-explore-visualize-and-present-your-data-98268d31-97e2-42aa-a52b-a68cf460472e)
-   * [Charts and other visualizations in Power View](https://support.microsoft.com/en-us/office/charts-and-other-visualizations-in-power-view-141bd462-9853-4973-ac37-842e8345f51e)
-   * [Working with a matrix in Power View](https://support.microsoft.com/en-us/office/working-with-a-matrix-in-power-view-5dfdfec3-1906-401c-8ef7-54f19c18989b)
-   * [Tiles in Power View](https://support.microsoft.com/en-us/office/tiles-in-power-view-62d69489-7888-4783-8c74-fcc079c7eed3)
-   * [Enable Power View](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)
-   * [Flash, Silverlight, and Shockwave controls blocked in Microsoft Office](https://support.microsoft.com/en-us/office/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-us&rs=en-us&ad=us)
+
 ## Power Map
 Power Map, our popular 3-D geospatial visualization add-in for Excel 2013, is now fully integrated into Excel. We’ve also given this feature a more descriptive name, “3D Maps". You'll find this functionality alongside other visualization features on the Insert tab. [learn more](https://support.microsoft.com/en-us/office/get-started-with-3d-maps-6b56a50d-3c3e-4a9e-a527-eea62a387030)
    * [Get started with Power Map](https://support.office.com/en-us/article/get-started-with-power-map-88a28df6-8258-40aa-b5cc-577873fb0f4a)
@@ -116,6 +108,15 @@ Power Map, our popular 3-D geospatial visualization add-in for Excel 2013, is no
 * Power BI
    * [Awesome Power BI](http://bit.ly/AwesomePowerBI) - Resources and References
 
+## Power View
+Power View is an interactive data exploration, visualization, and presentation experience that encourages intuitive ad-hoc reporting.
+<br />`In Excel for Microsoft 365 and Excel 2021, Power View is removed on October 12, 2021. As an alternative, you can use the interactive visual experience provided by Power BI Desktop)`
+   * [Power View: Explore, visualize, and present your data](https://support.office.com/en-us/article/power-view-explore-visualize-and-present-your-data-98268d31-97e2-42aa-a52b-a68cf460472e)
+   * [Charts and other visualizations in Power View](https://support.microsoft.com/en-us/office/charts-and-other-visualizations-in-power-view-141bd462-9853-4973-ac37-842e8345f51e)
+   * [Working with a matrix in Power View](https://support.microsoft.com/en-us/office/working-with-a-matrix-in-power-view-5dfdfec3-1906-401c-8ef7-54f19c18989b)
+   * [Tiles in Power View](https://support.microsoft.com/en-us/office/tiles-in-power-view-62d69489-7888-4783-8c74-fcc079c7eed3)
+   * [Enable Power View](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)
+   * [Flash, Silverlight, and Shockwave controls blocked in Microsoft Office](https://support.microsoft.com/en-us/office/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-us&rs=en-us&ad=us)
 -----
 ## Data Mining Model (Excel)
 * [Creating a Data Mining Model](https://docs.microsoft.com/en-us/sql/analysis-services/creating-a-data-mining-model?view=sql-server-2014) - Microsoft Docs
