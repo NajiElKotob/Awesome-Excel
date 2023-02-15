@@ -119,4 +119,5 @@ Power Map, our popular 3-D geospatial visualization add-in for Excel 2013, is no
 -----
 ## Data Mining Model (Excel)
 * [Creating a Data Mining Model](https://docs.microsoft.com/en-us/sql/analysis-services/creating-a-data-mining-model?view=sql-server-2014) - Microsoft Docs
+`Data mining was deprecated in SQL Server 2017 Analysis Services and now discontinued in SQL Server 2022 Analysis Services.`
 
