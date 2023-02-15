@@ -17,7 +17,7 @@
 
 ## Tutorials
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
-* [GCF](https://edu.gcfglobal.org/en/topics/excel/) - Free online learning at GCF Global
+* [GCF](https://edu.gcfglobal.org/en/topics/excel/) ⭐ - Free online learning at GCF Global
 * [Learn Excel with CFI](https://corporatefinanceinstitute.com/resources/excel/) - Everything you need to become an Excel power user.
 * [How to Create Dependent Cascading Drop-down Lists](https://www.excelcampus.com/tables/dependent-drop-lists/) - Excel Campus
 * [Making a cascading (dependent) Excel drop down list](https://www.ablebits.com/office-addins-blog/2014/09/30/dependent-cascading-dropdown-lists-excel/) - Ablebits
