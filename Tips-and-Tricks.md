@@ -2,7 +2,7 @@
 `
 Save Time; Magic; Fun
 `
-1. Define names for cells
+
 1. Absolute & relative cell references ........... (F4)
 1. Copy from Left ........... (CTRL + R)
 1. Copy from Top ........... (CTRL + D)
@@ -11,14 +11,17 @@ Save Time; Magic; Fun
 1. Highlight Dependents ........... (CTRL + `]`)
 1. Select the active column ........... (CTRL + Space)
 1. Select the active row ........... (CTRL + Shift)
-1. Copy Visible Cells Only ........... (Go to > Special)
 1. CTRL + SHIFT + + (Plus) + R + Enter ........... (Insert new row)
 1. CTRL + SHIRT + 4 ........... ($ Format)
 1. Bypass a hyperlink (CTRL+SHIFT)
 1. Paste List ........... (F3) 
+1. Flash Fill ........... (CTRL + E)
 1. Import data from web e.g., https://www.imdb.com/chart/top
 1. Copy Entire Sheet
 1. Paste Blank Column or Row ........... (Shift + Fill Handle)
+-----
+1. Define names for cells
+1. Copy Visible Cells Only ........... (Go to > Special)
 1. Transpose Column / Row
 1. Fill Options ........... (Fill Handle + Righ-click)
 1. Named ranges ........... (Zoom <= 39%)
