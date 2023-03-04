@@ -7,6 +7,7 @@ Save Time; Magic; Fun
 1. Copy from Left ........... (CTRL + R)
 1. Copy from Top ........... (CTRL + D)
 1. Format Cell ........... (CTRL + 1)
+1. Select Non-Adjacent cells .......... (CTRL + Click)
 1. Highlight Precedents ........... (CTRL + `[`)
 1. Highlight Dependents ........... (CTRL + `]`)
 1. Select the active column ........... (CTRL + Space)
