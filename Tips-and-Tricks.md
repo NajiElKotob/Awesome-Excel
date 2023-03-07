@@ -17,6 +17,7 @@ Save Time; Magic; Fun
 1. Bypass a hyperlink (CTRL+SHIFT)
 1. Paste List ........... (F3) 
 1. Flash Fill ........... (CTRL + E)
+1. CTRL + Shift + Mouse Scroll (Navigate Horizontally)
 1. Copy Entire Sheet
 1. Paste Blank Column or Row ........... (Shift + Fill Handle)
 1. Define names for cells
