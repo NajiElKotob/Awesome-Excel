@@ -71,4 +71,4 @@ Save Time; Magic; Fun
 1. '# "Years" (Format)
 1. '#,, "Million" | #.#0,, "Million" | #, "Thousand"
 1. [Select Objects](https://support.microsoft.com/en-us/office/select-a-shape-or-other-object-8db4e2f6-873a-46a7-87cb-fbb998a1f955)
-1. Quick Access Toolbar Shortcuts (ALT + #)
+1. Quick Access Toolbar Hotkeys (ALT + #)
