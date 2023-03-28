@@ -24,6 +24,7 @@ Save Time; Magic; Fun
 1. Import data from web e.g., https://www.imdb.com/chart/top
 1. Copy Visible Cells Only ........... (Go to > Special)
 1. Transpose Column / Row
+1. COPY + SHIFT + Drag/Drop (Copy + Align)
 1. Fill Options ........... (Fill Handle + Righ-click)
 1. Named ranges ........... (Zoom <= 39%)
 1. Arabic Numbers ........... (Custom format prefix [$-,200]) e.g., ١٩٧٥
