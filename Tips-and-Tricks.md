@@ -14,7 +14,7 @@ Save Time; Magic; Fun
 1. Select the active row ........... (CTRL + Shift)
 1. CTRL + SHIFT + + (Plus) ........... (Insert a new row/col)
 1. CTRL + - (Minus) ........... (Remove a row/col)
-1. CTRL + SHIRT + 4 ........... ($ Format)
+1. CTRL + SHIRT + # ........... (0-6, e.g., 4 = $ Format)
 1. Bypass a hyperlink (CTRL+SHIFT)
 1. Paste List ........... (F3) 
 1. Flash Fill ........... (CTRL + E)
