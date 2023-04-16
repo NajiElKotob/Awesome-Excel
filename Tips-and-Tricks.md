@@ -76,3 +76,4 @@ Save Time; Magic; Fun
 1. Quick Access Toolbar Hotkeys (ALT + #)
 1. =MATCH("col_name",Table[#Headers],0)
 1. Insert data from picture
+1. Search the menu (Context-sensitive)
