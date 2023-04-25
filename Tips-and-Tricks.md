@@ -77,3 +77,4 @@ Save Time; Magic; Fun
 1. =MATCH("col_name",Table[#Headers],0)
 1. Insert data from picture
 1. Search the menu (Context-sensitive)
+1. PivotTable Fields pane (Position, Layout)
