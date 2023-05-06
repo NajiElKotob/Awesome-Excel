@@ -40,6 +40,7 @@
 * [Flow Chart Shows You What Chart to Use](https://flowingdata.com/2009/01/15/flow-chart-shows-you-what-chart-to-use/) - Andrew Abela 
 * [Choosing a good chart](https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) ⭐ - extremepresentation.typepad.com
 * [Step-by-step guide to build a bullet chart in Excel](https://corporatefinanceinstitute.com/resources/financial-modeling/bullet-chart-guide/) - corporatefinanceinstitute.com
+* [Anatomy of an Excel chart 2016](https://exceljet.net/videos/anatomy-of-an-excel-chart-2016) - exceljet.net
 
 ## PivotTable and PivotChart
 * [101 Advanced Pivot Table Tips And Tricks You Need To Know](https://www.howtoexcel.org/pivot-tables/pivot-table-tips-and-tricks/) (How to Excel, October 2017)
