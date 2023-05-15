@@ -20,7 +20,7 @@ Save Time; Magic; Fun
 1. Flash Fill ........... (CTRL + E)
 1. CTRL + Shift + Mouse Scroll (Navigate Horizontally)
 1. Copy Entire Sheet
-1. Paste Blank Column or Row ........... (Shift + Fill Handle)
+1. Insert Blank Column or Row ........... (Shift + Fill Handle)
 1. Define names for cells
 1. Import data from web e.g., https://www.imdb.com/chart/top
 1. Copy Visible Cells Only ........... (Go to > Special)
