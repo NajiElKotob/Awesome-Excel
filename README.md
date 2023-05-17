@@ -41,6 +41,8 @@
 * [Choosing a good chart](https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) ⭐ - extremepresentation.typepad.com
 * [Step-by-step guide to build a bullet chart in Excel](https://corporatefinanceinstitute.com/resources/financial-modeling/bullet-chart-guide/) - corporatefinanceinstitute.com
 * [Anatomy of an Excel chart 2016](https://exceljet.net/videos/anatomy-of-an-excel-chart-2016) - exceljet.net
+* [Available chart types in Office](https://support.microsoft.com/en-us/office/available-chart-types-in-office-a6187218-807e-4103-9e0a-27cdb19afb90) ⭐ - microsoft.com
+
 
 ## PivotTable and PivotChart
 * [101 Advanced Pivot Table Tips And Tricks You Need To Know](https://www.howtoexcel.org/pivot-tables/pivot-table-tips-and-tricks/) (How to Excel, October 2017)
