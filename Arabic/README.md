@@ -3,6 +3,7 @@
 ## المراجع والمصادر
 * [مايكروسوفت اكسل](https://support.microsoft.com/ar-sa/excel) - microsoft.com
 * [أكسيل 2016](https://edu.gcfglobal.org/en/tr_ar-excel-2016/) 🌟 
+* [مفاتيح الاختصار في Excel](https://support.microsoft.com/ar-sa/office/%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1-%D9%81%D9%8A-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f)
   * في هذا الدرس المجاني لبرنامج "اكسيل" 2016، تعلم كيفية انشاء وتكوين المعادلات والرسومات البيانية والدوال ، وكذا تنسيق الخلايا وعمل المزيد مع جداول البيانات
 * [Hsoub حسوب](https://academy.hsoub.com/apps/productivity/office/microsoft-excel/)
 * [اختبار MO-200: Microsoft Excel (Office 2019)](https://learn.microsoft.com/ar-sa/certifications/exams/mo-200/)
