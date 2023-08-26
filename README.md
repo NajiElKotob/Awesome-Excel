@@ -65,6 +65,8 @@
 ### RegressIt
 * [RegressIt](https://regressit.com/) - regressit.com | Free Excel add-in for linear regression and multivariate data analysis
 
+### Python in Excel
+* [Combining the power of Python and the flexibility of Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)
 
 ## Macro adn VBA
 * [Excel VBA Beginner Tutorial 📺](https://www.youtube.com/watch?v=G05TrN7nt6k) - (Learnit Training, November 2019)
