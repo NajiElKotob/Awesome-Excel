@@ -123,6 +123,10 @@ Power View is an interactive data exploration, visualization, and presentation e
    * [Tiles in Power View](https://support.microsoft.com/en-us/office/tiles-in-power-view-62d69489-7888-4783-8c74-fcc079c7eed3)
    * [Enable Power View](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)
    * [Flash, Silverlight, and Shockwave controls blocked in Microsoft Office](https://support.microsoft.com/en-us/office/flash-silverlight-and-shockwave-controls-blocked-in-microsoft-office-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-us&rs=en-us&ad=us)
+
+## Power BI
+* [Connected tables in Excel Online](https://powerbi.microsoft.com/en-us/blog/announcing-the-creation-of-connected-tables-in-excel-online/)
+  
 -----
 ## Data Mining Model (Excel)
 * [Creating a Data Mining Model](https://docs.microsoft.com/en-us/sql/analysis-services/creating-a-data-mining-model?view=sql-server-2014) - Microsoft Docs
