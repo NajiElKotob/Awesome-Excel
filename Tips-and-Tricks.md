@@ -7,13 +7,13 @@ Save Time; Magic; Fun
 1. Copy from Left ........... (CTRL + R)
 1. Copy from Top ........... (CTRL + D)
 1. Format Cell ........... (CTRL + 1)
-1. Select Non-Adjacent cells .......... (CTRL + Click)
+1. Select Non-Adjacent cells .......... (CTRL + Click) ⭐
 1. Highlight Precedents ........... (CTRL + `[`)
 1. Highlight Dependents ........... (CTRL + `]`)
 1. Select the active column ........... (CTRL + Space)
 1. Select the active row ........... (CTRL + Shift)
-1. CTRL + SHIFT + + (Plus) ........... (Insert a new row/col)
-1. CTRL + - (Minus) ........... (Remove a row/col)
+1. CTRL + SHIFT + + (Plus) ........... (Insert a new row/col) ⭐
+1. CTRL + - (Minus) ........... (Remove a row/col) ⭐
 1. CTRL + SHIFT + # ........... (0-6, e.g., 4 = $ Format)
 1. Bypass a hyperlink (CTRL+SHIFT)
 1. Paste List ........... (F3) 
@@ -28,7 +28,7 @@ Save Time; Magic; Fun
 1. Fill Options ........... (Fill Handle + Righ-click)
 1. Named ranges ........... (Zoom <= 39%)
 1. Arabic Numbers ........... (Custom format prefix [$-,200]) e.g., ١٩٧٥
-1. ;;; ........... Hidden Numbers
+1. ;;; ........... Hidden Numbers ⭐
 1. • @  ........... (Alt 7 + Cell value)
 1. F9 (Edit mode) ........... Formula's value
 1. Watch Window
