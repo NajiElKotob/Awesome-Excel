@@ -22,7 +22,7 @@ Save Time; Magic; Fun
 1. Copy Entire Sheet
 1. Insert Blank Column or Row ........... (Shift + Fill Handle)
 1. Define names for cells
-1. Import data from web e.g., https://www.imdb.com/chart/top
+1. Import data from web e.g., https://www.imdb.com/chart/top or https://en.wikipedia.org/wiki/Sovereign_wealth_fund
 1. Copy Visible Cells Only ........... (Go to > Special)
 1. Transpose Column / Row
 1. Fill Options ........... (Fill Handle + Righ-click)
