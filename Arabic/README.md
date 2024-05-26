@@ -6,6 +6,7 @@
 * [مفاتيح الاختصار في Excel](https://support.microsoft.com/ar-sa/office/%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B1-%D9%81%D9%8A-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f)
   * في هذا الدرس المجاني لبرنامج "اكسيل" 2016، تعلم كيفية انشاء وتكوين المعادلات والرسومات البيانية والدوال ، وكذا تنسيق الخلايا وعمل المزيد مع جداول البيانات
 * [Hsoub حسوب](https://academy.hsoub.com/apps/productivity/office/microsoft-excel/)
+* [دالات Excel (حسب الفئة)](https://support.microsoft.com/ar-sa/office/%D8%AF%D8%A7%D9%84%D8%A7%D8%AA-excel-%D8%AD%D8%B3%D8%A8-%D8%A7%D9%84%D9%81%D8%A6%D8%A9-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
 * [اختبار MO-200: Microsoft Excel (Office 2019)](https://learn.microsoft.com/ar-sa/certifications/exams/mo-200/)
 
 ## YouTube
