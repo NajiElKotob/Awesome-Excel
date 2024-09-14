@@ -78,3 +78,4 @@ Save Time; Magic; Fun
 1. Search the menu (Context-sensitive)
 1. PivotTable Fields pane (Position, Layout)
 1. ? ActiveWorkbook.PivotCaches.Count (PivotCache Count)
+1. =REPT("|",10) and Use "Britannic Bold" font ➡ In-cell bar chart
