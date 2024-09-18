@@ -79,3 +79,4 @@ Save Time; Magic; Fun
 1. PivotTable Fields pane (Position, Layout)
 1. ? ActiveWorkbook.PivotCaches.Count (PivotCache Count)
 1. =REPT("|",10) and Use "Britannic Bold" font ➡ In-cell bar chart
+1. Gregorian Format - "B1dd/mm/yy"; Hijri Format - "B2dd/mm/yy"
