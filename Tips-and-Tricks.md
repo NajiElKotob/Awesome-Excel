@@ -80,3 +80,4 @@ Save Time; Magic; Fun
 1. ? ActiveWorkbook.PivotCaches.Count (PivotCache Count)
 1. =REPT("|",10) and Use "Britannic Bold" font ➡ In-cell bar chart
 1. Gregorian Format - "B1dd/mm/yy"; Hijri Format - "B2dd/mm/yy"
+1. =STOCKHISTORY("MSFT", "2024-1-1","2024-9-30",,,,0,1,2,3,4,5)
