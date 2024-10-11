@@ -24,6 +24,7 @@
 * [Applying the Pareto Principle in Financial Analysis](https://magnimetrics.com/pareto-principle-in-financial-analysis/) - Dobromir Dikov
 * [Interactive Excel Web App Dashboard (Video)](https://www.youtube.com/watch?v=ciU9wHtX-EM) - MrExcel.com
 * [Excel ribbon: quick guide for beginners](https://www.ablebits.com/office-addins-blog/excel-ribbon-guide/) - ablebits.com
+* [Custom Excel number format](https://www.ablebits.com/office-addins-blog/custom-excel-number-format/) - ablebits.com
 
 ## Help
 * [What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
