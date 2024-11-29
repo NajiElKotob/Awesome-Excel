@@ -71,6 +71,7 @@ Save Time; Magic; Fun
 1. [The 1900 date system](https://support.microsoft.com/en-us/office/date-systems-in-excel-e7fe7167-48a9-4b96-bb53-5612a800b487)
 1. '# "Years" (Format)
 1. '#,, "Million" | #.#0,, "Million" | #, "Thousand"
+1. ROW() //Index
 1. [Select Objects](https://support.microsoft.com/en-us/office/select-a-shape-or-other-object-8db4e2f6-873a-46a7-87cb-fbb998a1f955)
 1. Quick Access Toolbar Hotkeys (ALT + #)
 1. =MATCH("col_name",Table[#Headers],0)
