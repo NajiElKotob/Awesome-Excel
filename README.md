@@ -11,6 +11,8 @@
 * [TeachExcel](https://www.youtube.com/user/ExcelisHell/) - Excel help and tutorial videos. 
 * [Excel Campus - Jon](https://www.youtube.com/user/ExcelCampus/) - Excel Campus is here to help you learn Excel and save you time with your everyday tasks. 
 * [I didn’t know Excel could do THAT](https://www.youtube.com/watch?v=l7tvMoGrWKw) - Bob Umlas
+* MyOnlineTrainingHub
+  - [Excel for Beginners Series](https://www.youtube.com/playlist?list=PLmd91OWgLVSKYxTes9-EHiM5rhuzC2ziM)
 
 ## X (Twitter)
 * [Microsoft Excel](https://twitter.com/msexcel) 🐤
