@@ -13,6 +13,7 @@
 * [I didn’t know Excel could do THAT](https://www.youtube.com/watch?v=l7tvMoGrWKw) - Bob Umlas
 * MyOnlineTrainingHub
   - [Excel for Beginners Series](https://www.youtube.com/playlist?list=PLmd91OWgLVSKYxTes9-EHiM5rhuzC2ziM)
+  - [Excel Keyboard & Mouse Shortcuts](https://www.youtube.com/playlist?list=PLmd91OWgLVSKhIFJ6wS3oK4FsmhautSg9)
 
 ## X (Twitter)
 * [Microsoft Excel](https://twitter.com/msexcel) 🐤
