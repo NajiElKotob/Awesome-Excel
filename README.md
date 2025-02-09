@@ -45,6 +45,7 @@
 * [Announcing LAMBDA: Turn Excel formulas into custom functions](https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambda-turn-excel-formulas-into-custom-functions/ba-p/1925546)
 
 ## Charts
+* [Panel Charts in Excel](https://www.youtube.com/watch?v=QqHQOYJCXTM) - Jon Peltier | Microsoft Reactor
 * [A classification of chart types](https://excelcharts.com/classification-chart-types/) - Jorge Camoes
 * [Flow Chart Shows You What Chart to Use](https://flowingdata.com/2009/01/15/flow-chart-shows-you-what-chart-to-use/) - Andrew Abela 
 * [Choosing a good chart](https://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html) ⭐ - extremepresentation.typepad.com
