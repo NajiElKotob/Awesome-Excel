@@ -1,9 +1,9 @@
 # Awesome Excel 💚
+`Microsoft Excel is the industry leading spreadsheet software program, a powerful data visualization and analysis tool. Take your analytics to the next level with Excel.`
+
 {Awesome Works in Progress}
 
-[Old Labs](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel) - Awesome MSO
 
------
 
 ## Top YouTube Channels :tv: (Excel)
 * [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) - Over 3000 Excel How To Videos from Beginner to Advanced, including downloadable Excel files to practice and pdf notes to summarize concepts.
@@ -141,4 +141,11 @@ Power View is an interactive data exploration, visualization, and presentation e
 ## Data Mining Model (Excel)
 * [Creating a Data Mining Model](https://docs.microsoft.com/en-us/sql/analysis-services/creating-a-data-mining-model?view=sql-server-2014) - Microsoft Docs
 `Data mining was deprecated in SQL Server 2017 Analysis Services and now discontinued in SQL Server 2022 Analysis Services.`
+
+
+-----
+## Archive
+[Archived Excel Repository](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel) - Awesome MSO
+
+-----
 
