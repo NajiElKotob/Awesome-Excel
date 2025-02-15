@@ -38,7 +38,7 @@
 
 
 ## Formulas
-* [Formula tutorial step-by-step (Microsoft)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE27QqD)
+* [Formula tutorial step-by-step (Microsoft)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE27QqD) ⭐
     * [More Excel Resources](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel)
 * [Excel functions (by category)](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
 * [Excel Function List](https://exceljet.net/excel-functions) - exceljet.net
