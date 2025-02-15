@@ -64,28 +64,33 @@
 * [Excel Templates](https://www.excel-skills.com/excel_business_templates.php?sesreq=5769990201912112228&ctime=1576165811) - Excel-Skills.com
 * [How to Insert a Symbol in Excel](https://www.vertex42.com/blog/help/excel-help/using-unicode-character-symbols-in-excel.html)
    * [Huge List of Unicode Symbols](https://www.vertex42.com/ExcelTips/unicode-symbols.html)
-   
-## Statistics and Data Analytics
+
+-----
+## Advanced Analytics
+### Statistics and Data Analytics
 * [Linear regression analysis in Excel](https://www.ablebits.com/office-addins-blog/2018/08/01/linear-regression-analysis-excel/)
 * [How to use Excel in seasonal forecasting](https://www.fm-magazine.com/news/2017/dec/how-to-use-excel-in-seasonal-forecasting-201718012.html)
 * [Create a forecast in Excel for Windows](https://support.office.com/en-us/article/create-a-forecast-in-excel-for-windows-22c500da-6da7-45e5-bfdc-60a7062329fd) - Microsoft Office
-### ToolPak
-* [Use the Analysis ToolPak to perform complex data analysis](https://support.microsoft.com/en-us/office/use-the-analysis-toolpak-to-perform-complex-data-analysis-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6) - microsoft.com
 
 ### Python in Excel
 * [Combining the power of Python and the flexibility of Excel](https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439)
 
-## Macro adn VBA
+## Add-ins
+* [Fuzzy Lookup Add-In for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=15011)
+* [RegressIt](https://regressit.com/) - regressit.com | Free Excel add-in for linear regression and multivariate data analysis
+* ToolPak
+  - [Use the Analysis ToolPak to perform complex data analysis](https://support.microsoft.com/en-us/office/use-the-analysis-toolpak-to-perform-complex-data-analysis-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6) - microsoft.com
+
+-----
+## Programming
+### Macro adn VBA
 * [Excel VBA Beginner Tutorial 📺](https://www.youtube.com/watch?v=G05TrN7nt6k) - (Learnit Training, November 2019)
 * [Excel Macros & VBA - Tutorial for Beginners 📺 ~50min](https://www.youtube.com/watch?v=IJQHMFLXk_c) - Kevin Stratvert
 * [Convert numbers into words](https://support.office.com/en-us/article/convert-numbers-into-words-a0d166fb-e1ea-4090-95c8-69442cd55d98) - Excel doesn’t have a default function that displays numbers as English words in a worksheet, but you can add this capability by pasting the following SpellNumber function code into a VBA (Visual Basic for Applications) module.
 
+-----
 ## Performance
 * [Improving calculation performance](https://docs.microsoft.com/en-us/office/vba/excel/concepts/excel-performance/excel-improving-calculation-performance)
-
-## Add-ins
-* [Fuzzy Lookup Add-In for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=15011)
-* [RegressIt](https://regressit.com/) - regressit.com | Free Excel add-in for linear regression and multivariate data analysis
 
 
 -----
