@@ -5,7 +5,7 @@
 
 
 
-## Top YouTube Channels :tv: (Excel)
+## YouTube :tv:
 * [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) - Over 3000 Excel How To Videos from Beginner to Advanced, including downloadable Excel files to practice and pdf notes to summarize concepts.
 * [MrExcel.com](https://www.youtube.com/user/bjele123/) - Learn a new Excel tip every weekday from MrExcel. 
 * [TeachExcel](https://www.youtube.com/user/ExcelisHell/) - Excel help and tutorial videos. 
@@ -34,8 +34,8 @@
 * [Excel ribbon: quick guide for beginners](https://www.ablebits.com/office-addins-blog/excel-ribbon-guide/) - ablebits.com
 * [Custom Excel number format](https://www.ablebits.com/office-addins-blog/custom-excel-number-format/) - ablebits.com
 
-## Help
-* [What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
+-----
+
 
 ## Formulas
 * [Formula tutorial step-by-step (Microsoft)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE27QqD)
@@ -87,15 +87,6 @@
 * [Fuzzy Lookup Add-In for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=15011)
 * [RegressIt](https://regressit.com/) - regressit.com | Free Excel add-in for linear regression and multivariate data analysis
 
-### Exams (Excel)
-* [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
-* [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
-* [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
-
-## Why Excel❓
-* [Versions of Excel Explained](https://spreadsheetpage.com/excel-version-history/)
-* [Seven reasons why excel is still used by half a billion people worldwide](https://irishtechnews.ie/seven-reasons-why-excel-is-still-used-by-half-a-billion-people-worldwide)
-* [27 Microsoft Excel Experts Predict The Future Of Excel In BI](https://www.investintech.com/resources/blog/archives/5718-experts-predict-the-future-of-excel-in-business-intelligence.html)
 
 -----
 # Power Suite (Modern Excel) ⚡
@@ -136,10 +127,25 @@ Power View is an interactive data exploration, visualization, and presentation e
 * [Connected tables in Excel Online](https://powerbi.microsoft.com/en-us/blog/announcing-the-creation-of-connected-tables-in-excel-online/)
   
 -----
+### Exams (Excel)
+* [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
+* [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
+* [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
+
+
+-----
+
 ## Data Mining Model (Excel)
 * [Creating a Data Mining Model](https://docs.microsoft.com/en-us/sql/analysis-services/creating-a-data-mining-model?view=sql-server-2014) - Microsoft Docs
 `Data mining was deprecated in SQL Server 2017 Analysis Services and now discontinued in SQL Server 2022 Analysis Services.`
 
+## Help
+* [What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
+
+## Why Excel❓
+* [Versions of Excel Explained](https://spreadsheetpage.com/excel-version-history/)
+* [Seven reasons why excel is still used by half a billion people worldwide](https://irishtechnews.ie/seven-reasons-why-excel-is-still-used-by-half-a-billion-people-worldwide)
+* [27 Microsoft Excel Experts Predict The Future Of Excel In BI](https://www.investintech.com/resources/blog/archives/5718-experts-predict-the-future-of-excel-in-business-intelligence.html)
 
 -----
 ## Archive
