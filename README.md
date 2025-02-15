@@ -54,7 +54,8 @@
 * [Available chart types in Office](https://support.microsoft.com/en-us/office/available-chart-types-in-office-a6187218-807e-4103-9e0a-27cdb19afb90) ⭐ - microsoft.com
 
 
-## PivotTable and PivotChart
+## PivotTable
+* [Create a PivotTable to analyze worksheet data](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) ⭐
 * [101 Advanced Pivot Table Tips And Tricks You Need To Know](https://www.howtoexcel.org/pivot-tables/pivot-table-tips-and-tricks/) (How to Excel, October 2017)
 * [Refresh Pivot Tables Automatically When Source Data Changes](https://www.excelcampus.com/vba/refresh-pivot-tables-automatically/) (Excel Campus, Jon Acampora)
 
