@@ -4,8 +4,8 @@
 {Awesome Works in Progress}
 
 
-
-## YouTube :tv:
+## Social Media
+### YouTube :tv:
 * [ExcelIsFun](https://www.youtube.com/user/ExcelIsFun/) - Over 3000 Excel How To Videos from Beginner to Advanced, including downloadable Excel files to practice and pdf notes to summarize concepts.
 * [MrExcel.com](https://www.youtube.com/user/bjele123/) - Learn a new Excel tip every weekday from MrExcel. 
 * [TeachExcel](https://www.youtube.com/user/ExcelisHell/) - Excel help and tutorial videos. 
@@ -20,8 +20,10 @@
   - [PivotTable](https://www.youtube.com/playlist?list=PLmd91OWgLVSLcAKJ_XEGxMD-tNDmC6QSo)
   - [Dashboard](https://www.youtube.com/playlist?list=PLmd91OWgLVSLy87GfZCR74BG1nhO7ER0s)
 
-## X (Twitter)
+### X (Twitter)
 * [Microsoft Excel](https://twitter.com/msexcel) 🐤
+
+-----
 
 ## Tutorials
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
@@ -49,6 +51,11 @@
 * [Excel Function List](https://exceljet.net/excel-functions) - exceljet.net
 * [Announcing LAMBDA: Turn Excel formulas into custom functions](https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambda-turn-excel-formulas-into-custom-functions/ba-p/1925546)
 
+## PivotTable
+* [Create a PivotTable to analyze worksheet data](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) ⭐
+* [101 Advanced Pivot Table Tips And Tricks You Need To Know](https://www.howtoexcel.org/pivot-tables/pivot-table-tips-and-tricks/) (How to Excel, October 2017)
+* [Refresh Pivot Tables Automatically When Source Data Changes](https://www.excelcampus.com/vba/refresh-pivot-tables-automatically/) (Excel Campus, Jon Acampora)
+
 ## Charts
 * [Panel Charts in Excel](https://www.youtube.com/watch?v=QqHQOYJCXTM) - Jon Peltier | Microsoft Reactor
 * [A classification of chart types](https://excelcharts.com/classification-chart-types/) - Jorge Camoes
@@ -57,11 +64,6 @@
 * [Step-by-step guide to build a bullet chart in Excel](https://corporatefinanceinstitute.com/resources/financial-modeling/bullet-chart-guide/) - corporatefinanceinstitute.com
 * [Anatomy of an Excel chart 2016](https://exceljet.net/videos/anatomy-of-an-excel-chart-2016) - exceljet.net
 * [Available chart types in Office](https://support.microsoft.com/en-us/office/available-chart-types-in-office-a6187218-807e-4103-9e0a-27cdb19afb90) ⭐ - microsoft.com
-
-## PivotTable
-* [Create a PivotTable to analyze worksheet data](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) ⭐
-* [101 Advanced Pivot Table Tips And Tricks You Need To Know](https://www.howtoexcel.org/pivot-tables/pivot-table-tips-and-tricks/) (How to Excel, October 2017)
-* [Refresh Pivot Tables Automatically When Source Data Changes](https://www.excelcampus.com/vba/refresh-pivot-tables-automatically/) (Excel Campus, Jon Acampora)
 
 ## Slicers
 * [How to use Excel Slicers like a PRO: Basics + 5 Advanced Tricks 📺 ~5min](https://www.youtube.com/watch?v=ZZ-UGMztoqo) - Chandoo
