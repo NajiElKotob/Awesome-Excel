@@ -29,10 +29,10 @@
 * [Official Website](https://products.office.com/en-us/excel) - Microsoft
 * [GCF](https://edu.gcfglobal.org/en/topics/excel/) ⭐ - Free online learning at GCF Global
 * [Learn Excel with CFI](https://corporatefinanceinstitute.com/resources/excel/) - Everything you need to become an Excel power user.
-* [How to Create Dependent Cascading Drop-down Lists](https://www.excelcampus.com/tables/dependent-drop-lists/) - Excel Campus
-* [Making a cascading (dependent) Excel drop down list](https://www.ablebits.com/office-addins-blog/2014/09/30/dependent-cascading-dropdown-lists-excel/) - Ablebits
+* Cascading Dropdown List
+  - [How to Create Dependent Cascading Drop-down Lists](https://www.excelcampus.com/tables/dependent-drop-lists/) - Excel Campus
+  - [Making a cascading (dependent) Excel drop down list](https://www.ablebits.com/office-addins-blog/2014/09/30/dependent-cascading-dropdown-lists-excel/) - Ablebits
 * [Applying the Pareto Principle in Financial Analysis](https://magnimetrics.com/pareto-principle-in-financial-analysis/) - Dobromir Dikov
-* [Interactive Excel Web App Dashboard (Video)](https://www.youtube.com/watch?v=ciU9wHtX-EM) - MrExcel.com
 * [Excel ribbon: quick guide for beginners](https://www.ablebits.com/office-addins-blog/excel-ribbon-guide/) - ablebits.com
 * [Custom Excel number format](https://www.ablebits.com/office-addins-blog/custom-excel-number-format/) - ablebits.com
 * [Excel video training](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb) 🌟
@@ -70,7 +70,8 @@
   
 ## Dashboard
 * [Create and share a Dashboard with Excel and Microsoft Groups](https://support.microsoft.com/en-us/office/create-and-share-a-dashboard-with-excel-and-microsoft-groups-ad92a34d-38d0-4fdd-b8b1-58379aae746e) ⭐
-
+* [Interactive Excel Web App Dashboard 📺](https://www.youtube.com/watch?v=ciU9wHtX-EM) - MrExcel.com
+  
 -----
 ## Advanced Analytics
 ### Statistics and Data Analytics
@@ -89,25 +90,10 @@
 
 -----
 ## Programming
-### Macro adn VBA
+### Macro and VBA
 * [Excel VBA Beginner Tutorial 📺](https://www.youtube.com/watch?v=G05TrN7nt6k) - (Learnit Training, November 2019)
 * [Excel Macros & VBA - Tutorial for Beginners 📺 ~50min](https://www.youtube.com/watch?v=IJQHMFLXk_c) - Kevin Stratvert
 * [Convert numbers into words](https://support.office.com/en-us/article/convert-numbers-into-words-a0d166fb-e1ea-4090-95c8-69442cd55d98) - Excel doesn’t have a default function that displays numbers as English words in a worksheet, but you can add this capability by pasting the following SpellNumber function code into a VBA (Visual Basic for Applications) module.
-
------
-
-## Misc
-* [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
-* [Create a form with Microsoft Forms](https://support.office.com/en-us/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) 
-* [Excel Templates](https://www.excel-skills.com/excel_business_templates.php?sesreq=5769990201912112228&ctime=1576165811) - Excel-Skills.com
-* [How to Insert a Symbol in Excel](https://www.vertex42.com/blog/help/excel-help/using-unicode-character-symbols-in-excel.html)
-   * [Huge List of Unicode Symbols](https://www.vertex42.com/ExcelTips/unicode-symbols.html)
-
-### Performance
-* [Improving calculation performance](https://docs.microsoft.com/en-us/office/vba/excel/concepts/excel-performance/excel-improving-calculation-performance)
-
-### Excel Version
-* [What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
 
 
 -----
@@ -148,7 +134,23 @@ Power View is an interactive data exploration, visualization, and presentation e
 
 ## Power BI
 * [Connected tables in Excel Online](https://powerbi.microsoft.com/en-us/blog/announcing-the-creation-of-connected-tables-in-excel-online/)
-  
+
+-----
+
+## Misc
+* [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
+* [Create a form with Microsoft Forms](https://support.office.com/en-us/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) 
+* [Excel Templates](https://www.excel-skills.com/excel_business_templates.php?sesreq=5769990201912112228&ctime=1576165811) - Excel-Skills.com
+* [How to Insert a Symbol in Excel](https://www.vertex42.com/blog/help/excel-help/using-unicode-character-symbols-in-excel.html)
+   * [Huge List of Unicode Symbols](https://www.vertex42.com/ExcelTips/unicode-symbols.html)
+
+### Performance
+* [Improving calculation performance](https://docs.microsoft.com/en-us/office/vba/excel/concepts/excel-performance/excel-improving-calculation-performance)
+
+### Excel Version
+* [What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
+
+
 -----
 ### Exams (Excel)
 * [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
