@@ -38,6 +38,9 @@
 
 -----
 
+## Tables
+* [7 Reasons Why you Should use Excel Tables 📺 ~10min](https://www.youtube.com/watch?v=-alMsXBF2D4) - Teacher's Tech
+
 
 ## Formulas
 * [Formula tutorial step-by-step (Microsoft)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE27QqD) ⭐
