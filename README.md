@@ -55,12 +55,14 @@
 * [Anatomy of an Excel chart 2016](https://exceljet.net/videos/anatomy-of-an-excel-chart-2016) - exceljet.net
 * [Available chart types in Office](https://support.microsoft.com/en-us/office/available-chart-types-in-office-a6187218-807e-4103-9e0a-27cdb19afb90) ⭐ - microsoft.com
 
-
 ## PivotTable
 * [Create a PivotTable to analyze worksheet data](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576) ⭐
 * [101 Advanced Pivot Table Tips And Tricks You Need To Know](https://www.howtoexcel.org/pivot-tables/pivot-table-tips-and-tricks/) (How to Excel, October 2017)
 * [Refresh Pivot Tables Automatically When Source Data Changes](https://www.excelcampus.com/vba/refresh-pivot-tables-automatically/) (Excel Campus, Jon Acampora)
 
+## Slicers
+* [How to use Excel Slicers like a PRO: Basics + 5 Advanced Tricks 📺 ~5min](https://www.youtube.com/watch?v=ZZ-UGMztoqo) - Chandoo
+  
 ## Dashboard
 * [Create and share a Dashboard with Excel and Microsoft Groups](https://support.microsoft.com/en-us/office/create-and-share-a-dashboard-with-excel-and-microsoft-groups-ad92a34d-38d0-4fdd-b8b1-58379aae746e) ⭐
 
