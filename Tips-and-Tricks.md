@@ -75,6 +75,7 @@ Save Time; Magic; Fun
 1. [Select Objects](https://support.microsoft.com/en-us/office/select-a-shape-or-other-object-8db4e2f6-873a-46a7-87cb-fbb998a1f955)
 1. Quick Access Toolbar Hotkeys (ALT + #)
 1. =MATCH("col_name",Table[#Headers],0)
+1. Sheetname (#) + Copy sheet
 1. Insert data from picture
 1. Search the menu (Context-sensitive)
 1. PivotTable Fields pane (Position, Layout)
