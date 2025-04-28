@@ -42,6 +42,7 @@
 
 ## Range
 * [Create a named range from selected cells in an Excel worksheet](https://support.microsoft.com/en-us/office/create-a-named-range-from-selected-cells-in-an-excel-worksheet-fd8905ed-1130-4cca-9bb0-ad02b7e594fd)
+* [Name cells and ranges in Excel 📺 ~2min](https://www.youtube.com/watch?v=tDaA3hgQwpQ)
 
 ## Tables
 * [Overview of Excel tables](https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c)
