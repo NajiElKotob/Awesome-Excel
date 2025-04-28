@@ -40,6 +40,9 @@
 
 -----
 
+## Range
+* [Create a named range from selected cells in an Excel worksheet](https://support.microsoft.com/en-us/office/create-a-named-range-from-selected-cells-in-an-excel-worksheet-fd8905ed-1130-4cca-9bb0-ad02b7e594fd)
+
 ## Tables
 * [Overview of Excel tables](https://support.microsoft.com/en-us/office/overview-of-excel-tables-7ab0bb7d-3a9e-4b56-a3c9-6c94334e492c)
 * [7 Reasons Why you Should use Excel Tables 📺 ~10min](https://www.youtube.com/watch?v=-alMsXBF2D4) - Teacher's Tech
