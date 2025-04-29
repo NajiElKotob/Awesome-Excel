@@ -22,51 +22,52 @@ Save Time; Magic; Fun
 ## Workbook
 1. Copy Entire Sheet
 1. CTRL + Shift + Mouse Scroll (Navigate Horizontally)
-
+1. Watch Window
 
 ## Data Entry and Edit
 1. ROW() //Index
 1. Insert Blank Column or Row ........... (Shift + Fill Handle)
 1. • @  ........... (Alt 7 + Cell value)
 1. F9 (Edit mode) ........... Formula's value
+1. Line Breaks (Alt+Enter)
+1. Flash Fill
+1. Multiple Cells, Same Data (CTRL+Enter)
+1. Multiple Cells, Navigation (Tab)
+1. Paste Special (Operation: Add, Subtract, Multiply, Divide)
 
 ## Format
 1. ;;; ........... Hidden Numbers ⭐
+1. Arabic Numbers ........... (Custom format prefix [$-,200]) e.g., ١٩٧٥
 
 
 ## Functions
 1. Define names for cells
 1. Named ranges ........... (Zoom <= 39%)
-
+1. Multiple-clicks Trace Precedents/Dependents 
+1. Double-click Trace Precedents/Dependents Arrow
 
 ## Data
 1. Text to Columns
+1. Import data from web e.g., https://www.imdb.com/chart/top or https://en.wikipedia.org/wiki/Sovereign_wealth_fund
+
+## Fun
+1. Camera 📷
+
 
 ## Others
 1. Bypass a hyperlink (CTRL+SHIFT)
 
-1. Import data from web e.g., https://www.imdb.com/chart/top or https://en.wikipedia.org/wiki/Sovereign_wealth_fund
 1. Copy Visible Cells Only ........... (Go to > Special)
 1. Transpose Column / Row
 1. Fill Options ........... (Fill Handle + Righ-click)
 
-1. Arabic Numbers ........... (Custom format prefix [$-,200]) e.g., ١٩٧٥
-
-
-
-1. Watch Window
-1. Multiple-clicks Trace Precedents/Dependents 
-1. Double-click Trace Precedents/Dependents Arrow
 1. Double-click Format Painter
 1. Customize Quick Access Toolbar (Add, Remove, Order)
-1. Line Breaks (Alt+Enter)
-1. Flash Fill
+
 1. Fill > Justify (Break down long sentences)
 1. Select the whole contiguous data set of a cell (CTRL+A, CTRL+SHIFT+*)
 
-1. Multiple Cells, Same Data (CTRL+Enter)
-1. Multiple Cells, Navigation (Tab)
-1. Paste Special (Operation: Add, Subtract, Multiply, Divide)
+
 1. Charts as Templates
 1. Display Units in $000s
 1. Convert numbers stored as text to numbers (Paste special with Multiply by 1; VALUE(); Text to Columns) + Formatting
@@ -76,7 +77,7 @@ Save Time; Magic; Fun
 1. [People Graph](https://appsource.microsoft.com/en-us/product/office/wa104104476?tab=overview)
 1. Number format (POSITIVE; NEGATIVE; ZERO; TEXT e.g., #,##0.00;(#,##0.00);"-";[Red]@
 1. Clear format
-1. Camera 📷
+
 1. Inserts today's date (CTRL + ;)
 1. Inserts the current time (CTRL + Shift + ;)
 1. Instant Calc (Min, Max, Sum, Count, etc)
