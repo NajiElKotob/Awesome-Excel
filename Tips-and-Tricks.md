@@ -3,6 +3,7 @@
 Save Time; Magic; Fun
 `
 
+## Shortcuts
 1. Absolute & relative cell references ........... (F4)
 1. Copy from Left ........... (CTRL + R)
 1. Copy from Top ........... (CTRL + D)
@@ -15,22 +16,44 @@ Save Time; Magic; Fun
 1. CTRL + SHIFT + + (Plus) ........... (Insert a new row/col) ⭐
 1. CTRL + - (Minus) ........... (Remove a row/col) ⭐
 1. CTRL + SHIFT + # ........... (0-6, e.g., 4 = $ Format)
-1. Bypass a hyperlink (CTRL+SHIFT)
 1. Paste List ........... (F3) 
 1. Flash Fill ........... (CTRL + E)
-1. CTRL + Shift + Mouse Scroll (Navigate Horizontally)
+
+## Workbook
 1. Copy Entire Sheet
+1. CTRL + Shift + Mouse Scroll (Navigate Horizontally)
+
+
+## Data Entry and Edit
+1. ROW() //Index
 1. Insert Blank Column or Row ........... (Shift + Fill Handle)
+1. • @  ........... (Alt 7 + Cell value)
+1. F9 (Edit mode) ........... Formula's value
+
+## Format
+1. ;;; ........... Hidden Numbers ⭐
+
+
+## Functions
 1. Define names for cells
+1. Named ranges ........... (Zoom <= 39%)
+
+
+## Data
+1. Text to Columns
+
+## Others
+1. Bypass a hyperlink (CTRL+SHIFT)
+
 1. Import data from web e.g., https://www.imdb.com/chart/top or https://en.wikipedia.org/wiki/Sovereign_wealth_fund
 1. Copy Visible Cells Only ........... (Go to > Special)
 1. Transpose Column / Row
 1. Fill Options ........... (Fill Handle + Righ-click)
-1. Named ranges ........... (Zoom <= 39%)
+
 1. Arabic Numbers ........... (Custom format prefix [$-,200]) e.g., ١٩٧٥
-1. ;;; ........... Hidden Numbers ⭐
-1. • @  ........... (Alt 7 + Cell value)
-1. F9 (Edit mode) ........... Formula's value
+
+
+
 1. Watch Window
 1. Multiple-clicks Trace Precedents/Dependents 
 1. Double-click Trace Precedents/Dependents Arrow
@@ -40,7 +63,7 @@ Save Time; Magic; Fun
 1. Flash Fill
 1. Fill > Justify (Break down long sentences)
 1. Select the whole contiguous data set of a cell (CTRL+A, CTRL+SHIFT+*)
-1. Text to Columns
+
 1. Multiple Cells, Same Data (CTRL+Enter)
 1. Multiple Cells, Navigation (Tab)
 1. Paste Special (Operation: Add, Subtract, Multiply, Divide)
@@ -71,7 +94,7 @@ Save Time; Magic; Fun
 1. [The 1900 date system](https://support.microsoft.com/en-us/office/date-systems-in-excel-e7fe7167-48a9-4b96-bb53-5612a800b487)
 1. '# "Years" (Format)
 1. '#,, "Million" | #.#0,, "Million" | #, "Thousand"
-1. ROW() //Index
+
 1. [Select Objects](https://support.microsoft.com/en-us/office/select-a-shape-or-other-object-8db4e2f6-873a-46a7-87cb-fbb998a1f955)
 1. Quick Access Toolbar Hotkeys (ALT + #)
 1. =MATCH("col_name",Table[#Headers],0)
@@ -83,3 +106,5 @@ Save Time; Magic; Fun
 1. =REPT("|",10) and Use "Britannic Bold" font ➡ In-cell bar chart
 1. Gregorian Format - "B1dd/mm/yy"; Hijri Format - "B2dd/mm/yy"
 1. =STOCKHISTORY("MSFT", "2024-1-1","2024-9-30",,,,0,1,2,3,4,5)
+
+
