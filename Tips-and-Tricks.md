@@ -18,6 +18,9 @@ Save Time; Magic; Fun
 1. CTRL + SHIFT + # ........... (0-6, e.g., 4 = $ Format)
 1. Paste List ........... (F3) 
 1. Flash Fill ........... (CTRL + E)
+1. Inserts today's date (CTRL + ;)
+1. Inserts the current time (CTRL + Shift + ;)
+
 
 ## Workbook
 1. Copy Entire Sheet
@@ -38,7 +41,8 @@ Save Time; Magic; Fun
 ## Format
 1. ;;; ........... Hidden Numbers ⭐
 1. Arabic Numbers ........... (Custom format prefix [$-,200]) e.g., ١٩٧٥
-
+1. '# "Years" (Format)
+1. '#,, "Million" | #.#0,, "Million" | #, "Thousand"
 
 ## Functions
 1. Define names for cells
@@ -49,6 +53,10 @@ Save Time; Magic; Fun
 ## Data
 1. Text to Columns
 1. Import data from web e.g., https://www.imdb.com/chart/top or https://en.wikipedia.org/wiki/Sovereign_wealth_fund
+
+## PivotTable
+1. PivotTable Fields pane (Position, Layout)
+
 
 ## Fun
 1. Camera 📷
@@ -78,8 +86,8 @@ Save Time; Magic; Fun
 1. Number format (POSITIVE; NEGATIVE; ZERO; TEXT e.g., #,##0.00;(#,##0.00);"-";[Red]@
 1. Clear format
 
-1. Inserts today's date (CTRL + ;)
-1. Inserts the current time (CTRL + Shift + ;)
+
+
 1. Instant Calc (Min, Max, Sum, Count, etc)
 1. Instant Calc (Without header, scroll-down 1 row)
 1. Center Across Selection
@@ -93,8 +101,7 @@ Save Time; Magic; Fun
 1. Hide/Unhide slicing (filter) using the group rows features
 1. Total number of rows and columns on a worksheet 1,048,576 rows by 16,384 columns (17,179,869,184 cells or ~17.2B cells) [learn more](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)
 1. [The 1900 date system](https://support.microsoft.com/en-us/office/date-systems-in-excel-e7fe7167-48a9-4b96-bb53-5612a800b487)
-1. '# "Years" (Format)
-1. '#,, "Million" | #.#0,, "Million" | #, "Thousand"
+
 
 1. [Select Objects](https://support.microsoft.com/en-us/office/select-a-shape-or-other-object-8db4e2f6-873a-46a7-87cb-fbb998a1f955)
 1. Quick Access Toolbar Hotkeys (ALT + #)
@@ -102,7 +109,7 @@ Save Time; Magic; Fun
 1. Sheetname (#) + Copy sheet
 1. Insert data from picture
 1. Search the menu (Context-sensitive)
-1. PivotTable Fields pane (Position, Layout)
+
 1. ? ActiveWorkbook.PivotCaches.Count (PivotCache Count)
 1. =REPT("|",10) and Use "Britannic Bold" font ➡ In-cell bar chart
 1. Gregorian Format - "B1dd/mm/yy"; Hijri Format - "B2dd/mm/yy"
