@@ -20,7 +20,7 @@ Save Time; Magic; Fun
 1. Flash Fill ........... (CTRL + E)
 1. Inserts today's date (CTRL + ;)
 1. Inserts the current time (CTRL + Shift + ;)
-
+1. Select the whole contiguous data set of a cell (CTRL+A, CTRL+SHIFT+*)
 
 ## Workbook
 1. Copy Entire Sheet
@@ -37,12 +37,17 @@ Save Time; Magic; Fun
 1. Multiple Cells, Same Data (CTRL+Enter)
 1. Multiple Cells, Navigation (Tab)
 1. Paste Special (Operation: Add, Subtract, Multiply, Divide)
+1. 3D formula 
 
 ## Format
 1. ;;; ........... Hidden Numbers ⭐
 1. Arabic Numbers ........... (Custom format prefix [$-,200]) e.g., ١٩٧٥
 1. '# "Years" (Format)
 1. '#,, "Million" | #.#0,, "Million" | #, "Thousand"
+1. Number format (POSITIVE; NEGATIVE; ZERO; TEXT e.g., #,##0.00;(#,##0.00);"-";[Red]@
+1. Gregorian Format - "B1dd/mm/yy"; Hijri Format - "B2dd/mm/yy"
+1. Hide zero values 0;-0;;@
+
 
 ## Functions
 1. Define names for cells
@@ -73,20 +78,18 @@ Save Time; Magic; Fun
 1. Customize Quick Access Toolbar (Add, Remove, Order)
 
 1. Fill > Justify (Break down long sentences)
-1. Select the whole contiguous data set of a cell (CTRL+A, CTRL+SHIFT+*)
+
 
 
 1. Charts as Templates
 1. Display Units in $000s
 1. Convert numbers stored as text to numbers (Paste special with Multiply by 1; VALUE(); Text to Columns) + Formatting
-1. 3D formula 
+
 1. Highlight Rows Based on a Cell Value (Conditional Formatting) e.g., = $B2 > 10
 1. Screenshot 
 1. [People Graph](https://appsource.microsoft.com/en-us/product/office/wa104104476?tab=overview)
-1. Number format (POSITIVE; NEGATIVE; ZERO; TEXT e.g., #,##0.00;(#,##0.00);"-";[Red]@
+
 1. Clear format
-
-
 
 1. Instant Calc (Min, Max, Sum, Count, etc)
 1. Instant Calc (Without header, scroll-down 1 row)
@@ -95,7 +98,7 @@ Save Time; Magic; Fun
 1. Closing Parenthesis (Formulas)
 1. Spaces (Before =, Before (, Between logical operators e.g., >=)
 1. Clipboard task pane
-1. Hide zero values 0;-0;;@
+
 1. Dashboard Zone (Hide all the non-dashboard columns Shift+CTRL+➡)
 1. Errors #xx!, #xx?, #x/x, #x/x! e.g., #DIV/0!, #N/A!, etc. [learn more](https://www.dummies.com/article/technology/software/microsoft-products/excel/excel-error-messages-to-get-to-know-139082)
 1. Hide/Unhide slicing (filter) using the group rows features
@@ -112,7 +115,7 @@ Save Time; Magic; Fun
 
 1. ? ActiveWorkbook.PivotCaches.Count (PivotCache Count)
 1. =REPT("|",10) and Use "Britannic Bold" font ➡ In-cell bar chart
-1. Gregorian Format - "B1dd/mm/yy"; Hijri Format - "B2dd/mm/yy"
+
 1. =STOCKHISTORY("MSFT", "2024-1-1","2024-9-30",,,,0,1,2,3,4,5)
 
 
