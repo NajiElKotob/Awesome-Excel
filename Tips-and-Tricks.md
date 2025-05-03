@@ -21,11 +21,15 @@ Save Time; Magic; Fun
 1. Inserts today's date (CTRL + ;)
 1. Inserts the current time (CTRL + Shift + ;)
 1. Select the whole contiguous data set of a cell (CTRL+A, CTRL+SHIFT+*)
+1. Quick Access Toolbar Hotkeys (ALT + #)
+
 
 ## Workbook
 1. Copy Entire Sheet
 1. CTRL + Shift + Mouse Scroll (Navigate Horizontally)
 1. Watch Window
+1. Sheetname (#) + Copy sheet
+
 
 ## Data Entry and Edit
 1. ROW() //Index
@@ -47,6 +51,10 @@ Save Time; Magic; Fun
 1. Number format (POSITIVE; NEGATIVE; ZERO; TEXT e.g., #,##0.00;(#,##0.00);"-";[Red]@
 1. Gregorian Format - "B1dd/mm/yy"; Hijri Format - "B2dd/mm/yy"
 1. Hide zero values 0;-0;;@
+1. Display Units in $000s
+1. Convert numbers stored as text to numbers (Paste special with Multiply by 1; VALUE(); Text to Columns) + Formatting
+1. Clear format
+1. Center Across Selection
 
 
 ## Functions
@@ -54,14 +62,34 @@ Save Time; Magic; Fun
 1. Named ranges ........... (Zoom <= 39%)
 1. Multiple-clicks Trace Precedents/Dependents 
 1. Double-click Trace Precedents/Dependents Arrow
+1. Closing Parenthesis (Formulas)
+
 
 ## Data
 1. Text to Columns
 1. Import data from web e.g., https://www.imdb.com/chart/top or https://en.wikipedia.org/wiki/Sovereign_wealth_fund
+1. Insert data from picture
+
+
+## Charts
+1. Charts as Templates
+1. [People Graph](https://appsource.microsoft.com/en-us/product/office/wa104104476?tab=overview)
 
 ## PivotTable
 1. PivotTable Fields pane (Position, Layout)
 
+## Conditional Formatting
+1. Highlight Rows Based on a Cell Value (Conditional Formatting) e.g., = $B2 > 10
+
+
+## UI
+1. Clipboard task pane
+1. Screenshot 
+1. Instant Calc (Min, Max, Sum, Count, etc)
+1. Instant Calc (Without header, scroll-down 1 row)
+
+## Dashboard
+1. Dashboard Zone (Hide all the non-dashboard columns Shift+CTRL+➡)
 
 ## Fun
 1. Camera 📷
@@ -81,25 +109,21 @@ Save Time; Magic; Fun
 
 
 
-1. Charts as Templates
-1. Display Units in $000s
-1. Convert numbers stored as text to numbers (Paste special with Multiply by 1; VALUE(); Text to Columns) + Formatting
 
-1. Highlight Rows Based on a Cell Value (Conditional Formatting) e.g., = $B2 > 10
-1. Screenshot 
-1. [People Graph](https://appsource.microsoft.com/en-us/product/office/wa104104476?tab=overview)
 
-1. Clear format
 
-1. Instant Calc (Min, Max, Sum, Count, etc)
-1. Instant Calc (Without header, scroll-down 1 row)
-1. Center Across Selection
+
+
+
+
+
+
 1. User name (Personalize your copy of Microsoft Office)
-1. Closing Parenthesis (Formulas)
-1. Spaces (Before =, Before (, Between logical operators e.g., >=)
-1. Clipboard task pane
 
-1. Dashboard Zone (Hide all the non-dashboard columns Shift+CTRL+➡)
+1. Spaces (Before =, Before (, Between logical operators e.g., >=)
+
+
+
 1. Errors #xx!, #xx?, #x/x, #x/x! e.g., #DIV/0!, #N/A!, etc. [learn more](https://www.dummies.com/article/technology/software/microsoft-products/excel/excel-error-messages-to-get-to-know-139082)
 1. Hide/Unhide slicing (filter) using the group rows features
 1. Total number of rows and columns on a worksheet 1,048,576 rows by 16,384 columns (17,179,869,184 cells or ~17.2B cells) [learn more](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)
@@ -107,10 +131,10 @@ Save Time; Magic; Fun
 
 
 1. [Select Objects](https://support.microsoft.com/en-us/office/select-a-shape-or-other-object-8db4e2f6-873a-46a7-87cb-fbb998a1f955)
-1. Quick Access Toolbar Hotkeys (ALT + #)
+
 1. =MATCH("col_name",Table[#Headers],0)
-1. Sheetname (#) + Copy sheet
-1. Insert data from picture
+
+
 1. Search the menu (Context-sensitive)
 
 1. ? ActiveWorkbook.PivotCaches.Count (PivotCache Count)
