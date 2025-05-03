@@ -63,6 +63,7 @@ Save Time; Magic; Fun
 1. Multiple-clicks Trace Precedents/Dependents 
 1. Double-click Trace Precedents/Dependents Arrow
 1. Closing Parenthesis (Formulas)
+1. =MATCH("col_name",Table[#Headers],0)
 
 
 ## Data
@@ -90,6 +91,7 @@ Save Time; Magic; Fun
 
 ## Dashboard
 1. Dashboard Zone (Hide all the non-dashboard columns Shift+CTRL+➡)
+1. Hide/Unhide slicing (filter) using the group rows features
 
 ## Fun
 1. Camera 📷
@@ -109,30 +111,17 @@ Save Time; Magic; Fun
 
 
 
-
-
-
-
-
-
-
-
-
 1. User name (Personalize your copy of Microsoft Office)
 
 1. Spaces (Before =, Before (, Between logical operators e.g., >=)
 
 
-
 1. Errors #xx!, #xx?, #x/x, #x/x! e.g., #DIV/0!, #N/A!, etc. [learn more](https://www.dummies.com/article/technology/software/microsoft-products/excel/excel-error-messages-to-get-to-know-139082)
-1. Hide/Unhide slicing (filter) using the group rows features
 1. Total number of rows and columns on a worksheet 1,048,576 rows by 16,384 columns (17,179,869,184 cells or ~17.2B cells) [learn more](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)
 1. [The 1900 date system](https://support.microsoft.com/en-us/office/date-systems-in-excel-e7fe7167-48a9-4b96-bb53-5612a800b487)
 
 
 1. [Select Objects](https://support.microsoft.com/en-us/office/select-a-shape-or-other-object-8db4e2f6-873a-46a7-87cb-fbb998a1f955)
-
-1. =MATCH("col_name",Table[#Headers],0)
 
 
 1. Search the menu (Context-sensitive)
