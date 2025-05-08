@@ -31,6 +31,8 @@ Save Time; Magic; Fun
 1. Watch Window
 1. Sheetname (#) + Copy sheet
 1. Total number of rows and columns on a worksheet 1,048,576 rows by 16,384 columns (17,179,869,184 cells or ~17.2B cells) [learn more](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3)
+1. Customize Quick Access Toolbar (Add, Remove, Order)
+1. User name (Personalize your copy of Microsoft Office)
 
 
 ## Data Entry and Edit
@@ -44,6 +46,8 @@ Save Time; Magic; Fun
 1. Multiple Cells, Navigation (Tab)
 1. Paste Special (Operation: Add, Subtract, Multiply, Divide)
 1. 3D formula 
+1. Copy Visible Cells Only ........... (Go to > Special)
+1. Transpose Column / Row
 
 ## Format
 1. ;;; ........... Hidden Numbers ⭐
@@ -68,7 +72,7 @@ Save Time; Magic; Fun
 1. =MATCH("col_name",Table[#Headers],0)
 1. =REPT("|",10) and Use "Britannic Bold" font ➡ In-cell bar chart
 1. =STOCKHISTORY("MSFT", "2024-1-1","2024-9-30",,,,0,1,2,3,4,5)
-
+1. Errors #xx!, #xx?, #x/x, #x/x! e.g., #DIV/0!, #N/A!, etc. [learn more](https://www.dummies.com/article/technology/software/microsoft-products/excel/excel-error-messages-to-get-to-know-139082)
 
 ## Data
 1. Text to Columns
@@ -98,33 +102,18 @@ Save Time; Magic; Fun
 1. Dashboard Zone (Hide all the non-dashboard columns Shift+CTRL+➡)
 1. Hide/Unhide slicing (filter) using the group rows features
 
+
+## VBA
+1. ? ActiveWorkbook.PivotCaches.Count (PivotCache Count)
+
 ## Fun
 1. Camera 📷
 
 
 ## Others
 1. Bypass a hyperlink (CTRL+SHIFT)
-
-1. Copy Visible Cells Only ........... (Go to > Special)
-1. Transpose Column / Row
 1. Fill Options ........... (Fill Handle + Righ-click)
-
-1. Customize Quick Access Toolbar (Add, Remove, Order)
-
 1. Fill > Justify (Break down long sentences)
-
-1. User name (Personalize your copy of Microsoft Office)
-
 1. Spaces (Before =, Before (, Between logical operators e.g., >=)
-
-
-1. Errors #xx!, #xx?, #x/x, #x/x! e.g., #DIV/0!, #N/A!, etc. [learn more](https://www.dummies.com/article/technology/software/microsoft-products/excel/excel-error-messages-to-get-to-know-139082)
 1. [The 1900 date system](https://support.microsoft.com/en-us/office/date-systems-in-excel-e7fe7167-48a9-4b96-bb53-5612a800b487)
-
-
 1. Search the menu (Context-sensitive)
-
-1. ? ActiveWorkbook.PivotCaches.Count (PivotCache Count)
-
-
-
