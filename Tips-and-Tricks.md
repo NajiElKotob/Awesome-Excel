@@ -117,4 +117,5 @@ Save Time; Magic; Fun
 1. Bypass a hyperlink (CTRL+SHIFT)
 1. Fill Options ........... (Fill Handle + Righ-click)
 1. [The 1900 date system](https://support.microsoft.com/en-us/office/date-systems-in-excel-e7fe7167-48a9-4b96-bb53-5612a800b487)
+1. excel.new
 
