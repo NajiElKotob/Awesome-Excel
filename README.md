@@ -167,6 +167,8 @@ Power View is an interactive data exploration, visualization, and presentation e
 
 ## AI
 * [Agent Mode in Excel](https://support.microsoft.com/en-us/office/agent-mode-in-excel-frontier-a2fd6fe4-97ac-416b-b89a-22f4d1357c7a)
+* [Build a Dashboard in Excel with Agent Mode (Step-by-Step Tutorial) 📺 ~](https://www.youtube.com/watch?v=MlKyTKFWI4M) - Kevin Stratvert
+
   
 -----
 
