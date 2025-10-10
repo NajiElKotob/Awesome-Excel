@@ -148,6 +148,7 @@ Power View is an interactive data exploration, visualization, and presentation e
 * [Excel Templates](https://www.excel-skills.com/excel_business_templates.php?sesreq=5769990201912112228&ctime=1576165811) - Excel-Skills.com
 * [How to Insert a Symbol in Excel](https://www.vertex42.com/blog/help/excel-help/using-unicode-character-symbols-in-excel.html)
    * [Huge List of Unicode Symbols](https://www.vertex42.com/ExcelTips/unicode-symbols.html)
+* [Export Financial Data to Excel](https://financialdata.net/) - Financial Data Viewer + Excel Export
 
 ### Performance
 * [Improving calculation performance](https://docs.microsoft.com/en-us/office/vba/excel/concepts/excel-performance/excel-improving-calculation-performance)
