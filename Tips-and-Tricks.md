@@ -39,7 +39,6 @@ Save Time; Magic; Fun
 ## Data Entry and Edit
 1. ROW() //Index
 1. Insert Blank Column or Row ........... (Shift + Fill Handle)
-1. • @  ........... (Alt 7 + Cell value)
 1. F9 (Edit mode) ........... Formula's value
 1. Line Breaks (Alt+Enter)
 1. Flash Fill
@@ -63,7 +62,7 @@ Save Time; Magic; Fun
 1. Clear format
 1. Center Across Selection
 1. Fill > Justify (Break down long sentences)
-
+1. • @  ........... (Alt 7 + Cell value)
 
 ## Functions
 1. Define names for cells
