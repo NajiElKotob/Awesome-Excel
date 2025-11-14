@@ -5,6 +5,7 @@ Save Time; Magic; Fun
 
 ## Shortcuts
 1. [Absolute & relative cell references](https://support.microsoft.com/en-us/office/switch-between-relative-absolute-and-mixed-references-dfec08cd-ae65-4f56-839e-5f0d8d0baca9) ........... (F4)
+1. Repeat your last action ........... (F4)
 1. Copy from Left ........... (CTRL + R)
 1. Copy from Top ........... (CTRL + D)
 1. Format Cell ........... (CTRL + 1)
