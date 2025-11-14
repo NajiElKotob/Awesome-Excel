@@ -24,7 +24,7 @@ Save Time; Magic; Fun
 1. Select the whole contiguous data set of a cell (CTRL+A, CTRL+SHIFT+⬆️➡️⬇️⬅️)
 1. Quick Access Toolbar Hotkeys (ALT + #)
 1. Double-click Format Painter
-
+1. Autofit Columns (Double-click)
 
 
 ## Workbook
