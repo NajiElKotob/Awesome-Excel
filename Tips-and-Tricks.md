@@ -41,7 +41,7 @@ Save Time; Magic; Fun
 1. Insert Blank Column or Row ........... (Shift + Fill Handle)
 1. F9 (Edit mode) ........... Formula's value
 1. Line Breaks (Alt+Enter)
-1. Flash Fill
+1. [Flash Fill](https://support.microsoft.com/en-us/office/enable-flash-fill-in-excel-4e8cda31-51a7-45b7-ad19-a050ecc63cc4)
 1. Multiple Cells, Same Data (CTRL+Enter)
 1. Multiple Cells, Navigation (Tab)
 1. [Paste Special](https://support.microsoft.com/en-us/office/paste-special-e03db6c7-8295-4529-957d-16ac8a778719) (Operation: Add, Subtract, Multiply, Divide)
