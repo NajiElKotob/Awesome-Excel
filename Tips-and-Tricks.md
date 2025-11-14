@@ -20,7 +20,7 @@ Save Time; Magic; Fun
 1. Flash Fill ........... (CTRL + E)
 1. Inserts today's date (CTRL + ;)
 1. Inserts the current time (CTRL + Shift + ;)
-1. Select the whole contiguous data set of a cell (CTRL+A, CTRL+SHIFT+*)
+1. Select the whole contiguous data set of a cell (CTRL+A, CTRL+SHIFT+⬆️➡️⬇️⬅️)
 1. Quick Access Toolbar Hotkeys (ALT + #)
 1. Double-click Format Painter
 
