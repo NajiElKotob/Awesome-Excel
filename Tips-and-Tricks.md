@@ -64,6 +64,7 @@ Save Time; Magic; Fun
 1. Center Across Selection
 1. Fill > Justify (Break down long sentences)
 1. • @  ........... (Alt 7 + Cell value)
+1. Replace Format (Ctrl + H)
 
 ## Functions
 1. [Define names for cells](https://support.microsoft.com/en-us/office/define-and-use-names-in-formulas-4d0f13ac-53b7-422e-afd2-abd7ff379c64)
