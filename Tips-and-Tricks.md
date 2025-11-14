@@ -65,7 +65,7 @@ Save Time; Magic; Fun
 1. • @  ........... (Alt 7 + Cell value)
 
 ## Functions
-1. Define names for cells
+1. [Define names for cells](https://support.microsoft.com/en-us/office/define-and-use-names-in-formulas-4d0f13ac-53b7-422e-afd2-abd7ff379c64)
 1. Named ranges ........... (Zoom <= 39%)
 1. Multiple-clicks Trace Precedents/Dependents 
 1. Double-click Trace Precedents/Dependents Arrow
