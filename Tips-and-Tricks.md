@@ -27,7 +27,7 @@ Save Time; Magic; Fun
 
 
 ## Workbook
-1. Copy Entire Sheet
+1. [Copy Entire Sheet](https://support.microsoft.com/en-us/office/move-or-copy-worksheets-or-worksheet-data-47207967-bbb2-4e95-9b5c-3c174aa69328)
 1. CTRL + Shift + Mouse Scroll (Navigate Horizontally)
 1. Watch Window
 1. Sheetname (#) + Copy sheet
