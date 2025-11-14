@@ -44,7 +44,7 @@ Save Time; Magic; Fun
 1. Flash Fill
 1. Multiple Cells, Same Data (CTRL+Enter)
 1. Multiple Cells, Navigation (Tab)
-1. Paste Special (Operation: Add, Subtract, Multiply, Divide)
+1. [Paste Special](https://support.microsoft.com/en-us/office/paste-special-e03db6c7-8295-4529-957d-16ac8a778719) (Operation: Add, Subtract, Multiply, Divide)
 1. 3D formula 
 1. Copy Visible Cells Only ........... (Go to > Special)
 1. Transpose Column / Row
