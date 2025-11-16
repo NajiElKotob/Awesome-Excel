@@ -25,6 +25,7 @@ Save Time; Magic; Fun
 1. Quick Access Toolbar Hotkeys (ALT + #)
 1. Double-click Format Painter
 1. Autofit Columns (Double-click)
+1. Ribbon > Mouse Scroll Wheel 
 
 
 ## Workbook
