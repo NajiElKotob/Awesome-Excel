@@ -92,6 +92,7 @@ Save Time; Magic; Fun
 
 ## PivotTable
 1. PivotTable Fields pane (Position, Layout)
+1. Tabular PivotTable
 
 ## Conditional Formatting
 1. Highlight Rows Based on a Cell Value (Conditional Formatting) e.g., = $B2 > 10
