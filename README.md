@@ -119,7 +119,7 @@
    * [10 Ways to Improve Power Pivot Performance](https://www.dummies.com/software/microsoft-office/excel/10-ways-improve-power-pivot-performance/)
    * [Data Mining 2012 with Microsoft Excel 2010 and PowerPivot](https://learn.microsoft.com/en-us/events/teched-2012/dbi204) - learn.microsoft.com
    * [Tutorial: Import Data into Excel, and Create a Data Model](https://support.microsoft.com/en-us/excel/tutorial-import-data-into-excel-and-create-a-data-model) - microsoft.com
-   * [How to Create Data Models in Excel: A Comprehensive Guide](https://www.datacamp.com/tutorial/excel-data-model) - datacamp.com
+   * [How to Create Data Models in Excel: A Comprehensive Guide](https://www.datacamp.com/tutorial/excel-data-model) ⭐ - datacamp.com
 
 ## Power Map
 Power Map, our popular 3-D geospatial visualization add-in for Excel 2013, is now fully integrated into Excel. We’ve also given this feature a more descriptive name, “3D Maps". You'll find this functionality alongside other visualization features on the Insert tab. [learn more](https://support.microsoft.com/en-us/office/get-started-with-3d-maps-6b56a50d-3c3e-4a9e-a527-eea62a387030)
