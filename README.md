@@ -162,6 +162,7 @@ Power View is an interactive data exploration, visualization, and presentation e
 
 
 ### Exams (Excel)
+* [Browse Excel Credentials](https://learn.microsoft.com/en-us/credentials/browse/?products=office-excel) ⭐
 * [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
 * [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
 * [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
@@ -184,7 +185,6 @@ Power View is an interactive data exploration, visualization, and presentation e
 
 
 ## Why Excel❓
-* [Browse Excel Credentials](https://learn.microsoft.com/en-us/credentials/browse/?products=office-excel) ⭐
 * [Versions of Excel Explained](https://spreadsheetpage.com/excel-version-history/)
 * [Seven reasons why excel is still used by half a billion people worldwide](https://irishtechnews.ie/seven-reasons-why-excel-is-still-used-by-half-a-billion-people-worldwide)
 * [27 Microsoft Excel Experts Predict The Future Of Excel In BI](https://www.investintech.com/resources/blog/archives/5718-experts-predict-the-future-of-excel-in-business-intelligence.html)
