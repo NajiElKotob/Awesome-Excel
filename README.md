@@ -93,6 +93,7 @@
 * [RegressIt](https://regressit.com/) - regressit.com | Free Excel add-in for linear regression and multivariate data analysis
 * ToolPak
   - [Use the Analysis ToolPak to perform complex data analysis](https://support.microsoft.com/en-us/office/use-the-analysis-toolpak-to-perform-complex-data-analysis-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6) - microsoft.com
+* [FinancialData.Net](https://financialdata.net/excel-addin) - Excel Add-in for Stock Market & Financial Data
 
 -----
 ## Programming
