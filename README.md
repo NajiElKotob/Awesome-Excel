@@ -145,6 +145,15 @@ Power View is an interactive data exploration, visualization, and presentation e
 
 -----
 
+
+## Official Exams (Excel)
+* [Browse Excel Credentials](https://learn.microsoft.com/en-us/credentials/browse/?products=office-excel) ⭐
+* [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
+* [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
+* [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
+
+-----
+
 ## Misc
 * [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
 * [Create a form with Microsoft Forms](https://support.office.com/en-us/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) 
@@ -159,13 +168,6 @@ Power View is an interactive data exploration, visualization, and presentation e
 * [What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
 
 
-
-
-### Exams (Excel)
-* [Browse Excel Credentials](https://learn.microsoft.com/en-us/credentials/browse/?products=office-excel) ⭐
-* [MO-200: Microsoft Excel (Excel 2019)](https://www.microsoft.com/en-us/learning/exam-MO-200.aspx)
-* [77-727: Excel 2016: Core Data Analysis, Manipulation, and Presentation](https://www.microsoft.com/en-us/learning/exam-77-727.aspx)
-* [77-728: Excel 2016 Expert: Interpreting Data for Insights](https://www.microsoft.com/en-us/learning/exam-77-728.aspx)
 
 ------
 
