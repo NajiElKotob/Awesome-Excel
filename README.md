@@ -168,6 +168,8 @@ Power View is an interactive data exploration, visualization, and presentation e
 * [What version of Office am I using?](https://support.microsoft.com/en-us/office/about-office-what-version-of-office-am-i-using-932788b8-a3ce-44bf-bb09-e334518b8b19)
 
 
+## What's New in Excel
+* [What's New in Excel (July 2026)](https://techcommunity.microsoft.com/blog/excelblog/whats-new-in-excel-july-2026/4523403)
 
 ------
 
