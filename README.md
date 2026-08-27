@@ -158,6 +158,7 @@ Power View is an interactive data exploration, visualization, and presentation e
 * [Excel 2016 and 2019 cheat sheet](https://www.computerworld.com/article/3193992/excel-2016-and-2019-cheat-sheet.html) - Get to know the key features in Microsoft Excel 2016 and Excel 2019 for Windows.
 * [Create a form with Microsoft Forms](https://support.office.com/en-us/article/create-a-form-with-microsoft-forms-4ffb64cc-7d5d-402f-b82e-b1d49418fd9d) 
 * [Excel Templates](https://www.excel-skills.com/excel_business_templates.php?sesreq=5769990201912112228&ctime=1576165811) - Excel-Skills.com
+* [Free Spanish Family Budget Template](https://github.com/eltonylfgi-blip/plantilla-presupuesto-familiar-gratis) - Macro-free `.xlsx` template for monthly budgeting with automatic 50/30/20 totals and example data.
 * [How to Insert a Symbol in Excel](https://www.vertex42.com/blog/help/excel-help/using-unicode-character-symbols-in-excel.html)
    * [Huge List of Unicode Symbols](https://www.vertex42.com/ExcelTips/unicode-symbols.html)
 
