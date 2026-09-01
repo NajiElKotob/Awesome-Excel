@@ -90,6 +90,7 @@
 
 ## Add-ins
 * [Fuzzy Lookup Add-In for Excel](https://www.microsoft.com/en-us/download/details.aspx?id=15011)
+* [Mac Excel Shortcuts](https://maccove.com) - maccove.com | Replicates familiar Excel keyboard shortcuts for Windows migrators on macOS
 * [RegressIt](https://regressit.com/) - regressit.com | Free Excel add-in for linear regression and multivariate data analysis
 * ToolPak
   - [Use the Analysis ToolPak to perform complex data analysis](https://support.microsoft.com/en-us/office/use-the-analysis-toolpak-to-perform-complex-data-analysis-6c67ccf0-f4a9-487c-8dec-bdb5a2cefab6) - microsoft.com
