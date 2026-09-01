@@ -37,7 +37,7 @@
 * [Custom Excel number format](https://www.ablebits.com/office-addins-blog/custom-excel-number-format/) - ablebits.com
 * [Excel video training](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb) 🌟
 * [Import and analyze data](https://support.microsoft.com/en-us/office/import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde#ID0EBBD=Import_data) 🌟
-
+* [ExcelBites](https://excelbites.app) - Free gamified Excel formula trainer with 45 five-minute lessons in Swedish, Norwegian Bokmål, Danish, and English using the actual localized function names (SUMMA, LETARAD, SUMMER, FINN.RAD)
 -----
 
 ## Range
