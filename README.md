@@ -161,6 +161,8 @@ Power View is an interactive data exploration, visualization, and presentation e
 * [How to Insert a Symbol in Excel](https://www.vertex42.com/blog/help/excel-help/using-unicode-character-symbols-in-excel.html)
    * [Huge List of Unicode Symbols](https://www.vertex42.com/ExcelTips/unicode-symbols.html)
 
+* [30-day content planner (German, Austrian market, XLSX)](https://followerkaufen.at/resources/de_AT/content-planner.xlsx) - Free manual template with 30 blank planning slots for dates, topics, formats, key messages, evaluation and next steps; includes a labelled fictional example.
+
 ### Performance
 * [Improving calculation performance](https://docs.microsoft.com/en-us/office/vba/excel/concepts/excel-performance/excel-improving-calculation-performance)
 
