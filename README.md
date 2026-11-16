@@ -54,6 +54,7 @@
     * [More Excel Resources](https://github.com/NajiElKotob/AwesomeMSO/tree/master/Excel)
 * [Excel functions (by category)](https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
 * [Excel Function List](https://exceljet.net/excel-functions) - exceljet.net
+* [LookupLab](https://lookuplab.pages.dev) - Free Excel function reference with live, browser-run examples and side-by-side comparisons (VLOOKUP vs XLOOKUP, INDEX/MATCH, and more).
 * [Announcing LAMBDA: Turn Excel formulas into custom functions](https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambda-turn-excel-formulas-into-custom-functions/ba-p/1925546)
 
 ## PivotTable
