@@ -37,6 +37,7 @@
 * [Custom Excel number format](https://www.ablebits.com/office-addins-blog/custom-excel-number-format/) - ablebits.com
 * [Excel video training](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb) 🌟
 * [Import and analyze data](https://support.microsoft.com/en-us/office/import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde#ID0EBBD=Import_data) 🌟
+* [Excel practice exercises](https://theworkgym.com/excel/) - The Work Gym: exercises in a browser spreadsheet, each checked when you finish it; first unit and a 10-exercise skills test free without an account
 
 -----
 
